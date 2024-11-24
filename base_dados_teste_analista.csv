@@ -1,0 +1,1001 @@
+Data da Venda,Produto,Categoria,Quantidade Vendida,Receita,Custo,Localidade,Vendedor,Lucro,Margem de Lucro (%)
+2023-04-13,Produto B,Roupas,11,570.78,379.87,São Paulo,Mariana,190.91,33.45
+2023-12-15,Produto D,Alimentos,3,703.09,287.86,Belo Horizonte,Mariana,415.23,59.06
+2023-09-28,Produto B,Brinquedos,1,936.65,407.03,São Paulo,João,529.62,56.54
+2023-04-17,Produto D,Brinquedos,6,579.03,495.75,Curitiba,Carlos,83.28,14.38
+2023-03-13,Produto A,Alimentos,18,622.84,140.29,São Paulo,João,482.55,77.48
+2023-07-08,Produto B,Brinquedos,10,180.66,497.59,Rio de Janeiro,João,-316.93,-175.43
+2023-01-21,Produto D,Brinquedos,5,745.87,90.42,Rio de Janeiro,Ana,655.45,87.88
+2023-04-13,Produto B,Alimentos,10,459.91,51.04,São Paulo,Carlos,408.87,88.9
+2023-05-02,Produto B,Eletrônicos,12,979.05,69.87,Curitiba,Ana,909.18,92.86
+2023-08-03,Produto C,Eletrônicos,2,840.86,203.8,São Paulo,Mariana,637.06,75.76
+2023-11-27,Produto B,Alimentos,13,570.23,334.81,Belo Horizonte,Ana,235.42,41.29
+2023-03-29,Produto D,Brinquedos,8,210.9,81.06,Rio de Janeiro,João,129.84,61.56
+2023-04-10,Produto B,Roupas,2,873.47,52.55,Rio de Janeiro,João,820.92,93.98
+2023-12-26,Produto A,Brinquedos,1,819.8,471.69,São Paulo,Ana,348.11,42.46
+2023-06-01,Produto D,Brinquedos,5,266.13,419.87,Curitiba,Carlos,-153.74,-57.77
+2023-05-11,Produto D,Alimentos,9,365.75,414.13,Curitiba,Mariana,-48.38,-13.23
+2023-05-30,Produto D,Eletrônicos,17,814.07,447.99,São Paulo,Mariana,366.08,44.97
+2023-11-05,Produto B,Alimentos,9,266.71,365.02,São Paulo,Carlos,-98.31,-36.86
+2023-09-15,Produto A,Brinquedos,11,925.98,96.98,Curitiba,Ana,829.0,89.53
+2023-12-10,Produto A,Eletrônicos,15,482.07,229.6,Curitiba,Mariana,252.47,52.37
+2023-10-21,Produto C,Brinquedos,6,178.34,375.42,Rio de Janeiro,Mariana,-197.08,-110.51
+2023-07-11,Produto C,Roupas,3,834.17,176.15,Belo Horizonte,Ana,658.02,78.88
+2023-10-04,Produto C,Eletrônicos,17,436.16,359.33,Curitiba,Mariana,76.83,17.62
+2023-06-10,Produto D,Roupas,5,573.85,61.02,Belo Horizonte,Carlos,512.83,89.37
+2023-11-10,Produto A,Roupas,12,201.07,187.76,São Paulo,Carlos,13.31,6.62
+2023-01-22,Produto C,Alimentos,18,102.33,297.11,Belo Horizonte,Carlos,-194.78,-190.34
+2023-09-10,Produto B,Alimentos,14,674.19,334.44,São Paulo,João,339.75,50.39
+2023-08-24,Produto A,Eletrônicos,11,563.66,309.67,Belo Horizonte,João,253.99,45.06
+2023-12-11,Produto B,Alimentos,9,634.18,363.99,São Paulo,João,270.19,42.6
+2023-02-18,Produto A,Brinquedos,2,814.37,52.74,Curitiba,Mariana,761.63,93.52
+2023-02-28,Produto C,Roupas,12,681.95,95.42,Belo Horizonte,Ana,586.53,86.01
+2023-06-19,Produto C,Roupas,3,257.3,441.02,Curitiba,Carlos,-183.72,-71.4
+2023-07-07,Produto A,Roupas,3,424.7,356.79,Belo Horizonte,Carlos,67.91,15.99
+2023-09-28,Produto D,Roupas,1,915.3,100.82,Curitiba,Mariana,814.48,88.99
+2023-07-09,Produto A,Eletrônicos,8,792.95,428.93,São Paulo,Carlos,364.02,45.91
+2023-06-24,Produto C,Alimentos,8,600.97,159.0,Belo Horizonte,Ana,441.97,73.54
+2023-02-20,Produto B,Roupas,11,330.08,265.22,Rio de Janeiro,João,64.86,19.65
+2023-12-30,Produto A,Roupas,9,371.85,115.34,São Paulo,Ana,256.51,68.98
+2023-02-24,Produto B,Brinquedos,5,758.76,369.55,Curitiba,João,389.21,51.3
+2023-09-01,Produto B,Brinquedos,14,866.06,350.08,Curitiba,João,515.98,59.58
+2023-11-16,Produto A,Eletrônicos,3,704.28,145.0,Belo Horizonte,Mariana,559.28,79.41
+2023-05-11,Produto A,Roupas,5,828.58,438.53,São Paulo,Ana,390.05,47.07
+2023-11-03,Produto B,Brinquedos,5,789.99,230.59,Curitiba,Ana,559.4,70.81
+2023-05-15,Produto A,Alimentos,19,234.73,181.63,Belo Horizonte,João,53.1,22.62
+2023-01-21,Produto A,Brinquedos,14,481.55,118.55,Curitiba,Mariana,363.0,75.38
+2023-11-25,Produto B,Eletrônicos,4,237.69,169.78,São Paulo,Ana,67.91,28.57
+2023-06-16,Produto A,Roupas,13,311.71,59.91,Curitiba,Mariana,251.8,80.78
+2023-10-01,Produto A,Brinquedos,10,882.33,312.47,Belo Horizonte,Ana,569.86,64.59
+2023-03-30,Produto B,Roupas,18,525.6,429.0,São Paulo,João,96.6,18.38
+2023-11-12,Produto A,Eletrônicos,8,581.82,297.04,Rio de Janeiro,Mariana,284.78,48.95
+2023-01-14,Produto C,Alimentos,8,260.6,148.67,Belo Horizonte,João,111.93,42.95
+2023-08-30,Produto B,Brinquedos,7,381.04,65.15,Rio de Janeiro,Mariana,315.89,82.9
+2023-09-22,Produto D,Roupas,8,307.22,146.58,São Paulo,João,160.64,52.29
+2023-12-12,Produto B,Eletrônicos,14,285.57,237.25,Rio de Janeiro,Mariana,48.32,16.92
+2023-02-22,Produto D,Alimentos,19,674.16,391.83,Rio de Janeiro,Ana,282.33,41.88
+2023-12-06,Produto D,Eletrônicos,6,331.2,134.53,Curitiba,Ana,196.67,59.38
+2023-04-02,Produto B,Brinquedos,1,668.81,373.91,Belo Horizonte,Ana,294.9,44.09
+2023-09-21,Produto B,Alimentos,15,152.61,440.12,Curitiba,João,-287.51,-188.4
+2023-02-04,Produto C,Roupas,1,227.6,254.28,São Paulo,Ana,-26.68,-11.72
+2023-07-25,Produto A,Eletrônicos,17,347.09,419.64,Rio de Janeiro,Ana,-72.55,-20.9
+2023-03-22,Produto C,Eletrônicos,1,637.34,299.6,São Paulo,Ana,337.74,52.99
+2023-02-19,Produto D,Roupas,15,708.26,336.69,Belo Horizonte,João,371.57,52.46
+2023-12-26,Produto B,Eletrônicos,2,498.45,286.83,Curitiba,Carlos,211.62,42.46
+2023-01-02,Produto B,Roupas,14,501.21,258.43,São Paulo,João,242.78,48.44
+2023-02-23,Produto B,Roupas,8,752.07,155.59,Belo Horizonte,Ana,596.48,79.31
+2023-04-16,Produto D,Eletrônicos,8,114.24,186.44,São Paulo,Ana,-72.2,-63.2
+2023-09-17,Produto B,Alimentos,19,406.98,180.49,Rio de Janeiro,Carlos,226.49,55.65
+2023-11-06,Produto D,Alimentos,7,836.84,303.48,Rio de Janeiro,Ana,533.36,63.74
+2023-07-10,Produto D,Alimentos,19,642.9,103.98,Rio de Janeiro,Mariana,538.92,83.83
+2023-08-06,Produto D,Roupas,6,403.5,462.56,São Paulo,João,-59.06,-14.64
+2023-02-13,Produto A,Brinquedos,6,914.97,374.29,São Paulo,Carlos,540.68,59.09
+2023-06-11,Produto A,Brinquedos,3,795.36,230.65,São Paulo,Mariana,564.71,71.0
+2023-07-21,Produto B,Roupas,7,338.41,121.38,Curitiba,Mariana,217.03,64.13
+2023-09-27,Produto B,Alimentos,19,680.76,446.9,Belo Horizonte,Ana,233.86,34.35
+2023-12-17,Produto D,Brinquedos,8,636.18,420.7,Rio de Janeiro,Carlos,215.48,33.87
+2023-10-31,Produto A,Roupas,10,461.07,374.77,Curitiba,Carlos,86.3,18.72
+2023-09-28,Produto C,Roupas,15,430.26,172.2,Curitiba,Mariana,258.06,59.98
+2023-08-03,Produto C,Brinquedos,15,409.2,231.1,Belo Horizonte,João,178.1,43.52
+2023-09-09,Produto A,Brinquedos,1,655.44,96.24,São Paulo,Mariana,559.2,85.32
+2023-07-09,Produto A,Eletrônicos,7,498.17,135.07,Belo Horizonte,Ana,363.1,72.89
+2023-10-23,Produto C,Alimentos,4,848.68,402.36,São Paulo,Ana,446.32,52.59
+2023-08-01,Produto A,Roupas,6,702.64,371.77,Curitiba,Carlos,330.87,47.09
+2023-07-27,Produto C,Eletrônicos,1,162.94,317.07,Rio de Janeiro,Mariana,-154.13,-94.59
+2023-08-25,Produto C,Eletrônicos,5,676.15,453.08,Curitiba,Carlos,223.07,32.99
+2023-12-04,Produto B,Roupas,1,344.03,312.47,Rio de Janeiro,Carlos,31.56,9.17
+2023-02-22,Produto C,Alimentos,4,633.53,260.14,Belo Horizonte,João,373.39,58.94
+2023-10-07,Produto D,Roupas,2,712.12,203.17,São Paulo,Ana,508.95,71.47
+2023-08-05,Produto C,Roupas,10,307.75,473.2,São Paulo,Ana,-165.45,-53.76
+2023-09-09,Produto D,Brinquedos,5,511.17,87.22,Rio de Janeiro,Carlos,423.95,82.94
+2023-07-07,Produto C,Brinquedos,10,271.29,468.9,Rio de Janeiro,Carlos,-197.61,-72.84
+2023-02-10,Produto D,Brinquedos,1,147.1,422.02,São Paulo,Carlos,-274.92,-186.89
+2023-06-06,Produto C,Eletrônicos,6,440.63,108.47,São Paulo,Mariana,332.16,75.38
+2023-01-15,Produto C,Eletrônicos,13,426.65,304.24,Belo Horizonte,Mariana,122.41,28.69
+2023-10-28,Produto B,Brinquedos,15,995.93,439.95,Rio de Janeiro,Carlos,555.98,55.83
+2023-03-06,Produto A,Roupas,4,501.72,307.31,Rio de Janeiro,Carlos,194.41,38.75
+2023-12-11,Produto C,Roupas,13,400.21,458.24,Rio de Janeiro,Ana,-58.03,-14.5
+2023-11-23,Produto C,Roupas,15,622.43,474.34,Rio de Janeiro,Ana,148.09,23.79
+2023-01-09,Produto D,Brinquedos,8,179.89,240.07,São Paulo,João,-60.18,-33.45
+2023-12-10,Produto D,Brinquedos,5,965.5,219.79,Curitiba,João,745.71,77.24
+2023-05-09,Produto B,Eletrônicos,15,671.46,471.34,Rio de Janeiro,Carlos,200.12,29.8
+2023-05-16,Produto A,Alimentos,4,779.35,353.81,São Paulo,Ana,425.54,54.6
+2023-03-04,Produto A,Roupas,12,253.43,102.21,Belo Horizonte,Ana,151.22,59.67
+2023-05-19,Produto C,Alimentos,13,468.53,69.03,São Paulo,João,399.5,85.27
+2023-03-22,Produto D,Brinquedos,2,480.42,304.08,Rio de Janeiro,Ana,176.34,36.71
+2023-06-12,Produto A,Roupas,19,839.63,468.58,São Paulo,Mariana,371.05,44.19
+2023-10-16,Produto A,Brinquedos,19,101.11,429.91,Rio de Janeiro,Carlos,-328.8,-325.19
+2023-09-18,Produto C,Alimentos,4,370.77,354.13,São Paulo,Mariana,16.64,4.49
+2023-08-19,Produto C,Brinquedos,4,983.11,112.6,Belo Horizonte,João,870.51,88.55
+2023-02-10,Produto C,Roupas,11,527.4,164.4,Belo Horizonte,João,363.0,68.83
+2023-01-28,Produto A,Eletrônicos,5,444.27,443.98,Curitiba,João,0.29,0.07
+2023-05-15,Produto B,Roupas,11,207.85,132.26,Curitiba,Carlos,75.59,36.37
+2023-07-20,Produto D,Brinquedos,10,976.75,175.3,São Paulo,Ana,801.45,82.05
+2023-11-24,Produto C,Eletrônicos,8,118.02,108.32,Rio de Janeiro,Mariana,9.7,8.22
+2023-09-25,Produto C,Alimentos,6,763.46,354.25,Curitiba,Ana,409.21,53.6
+2023-02-02,Produto D,Alimentos,6,791.74,474.79,Rio de Janeiro,João,316.95,40.03
+2023-02-17,Produto B,Eletrônicos,8,319.29,171.04,Belo Horizonte,Mariana,148.25,46.43
+2023-03-03,Produto C,Alimentos,15,704.4,263.93,Curitiba,João,440.47,62.53
+2023-08-04,Produto A,Eletrônicos,14,183.64,335.45,Rio de Janeiro,Carlos,-151.81,-82.67
+2023-10-20,Produto C,Eletrônicos,11,331.34,499.76,Curitiba,Carlos,-168.42,-50.83
+2023-04-09,Produto C,Eletrônicos,12,809.11,97.16,São Paulo,João,711.95,87.99
+2023-06-21,Produto A,Alimentos,13,878.22,274.36,Belo Horizonte,Carlos,603.86,68.76
+2023-12-26,Produto D,Alimentos,8,647.64,223.3,Rio de Janeiro,Ana,424.34,65.52
+2023-08-02,Produto A,Eletrônicos,18,556.15,439.62,Belo Horizonte,João,116.53,20.95
+2023-02-04,Produto C,Roupas,1,243.37,264.19,Rio de Janeiro,Carlos,-20.82,-8.55
+2023-08-15,Produto B,Eletrônicos,15,156.8,99.94,Belo Horizonte,Ana,56.86,36.26
+2023-04-11,Produto B,Eletrônicos,8,205.88,335.49,Rio de Janeiro,João,-129.61,-62.95
+2023-05-11,Produto D,Roupas,11,304.62,396.85,São Paulo,Mariana,-92.23,-30.28
+2023-09-14,Produto B,Brinquedos,12,407.51,51.3,Curitiba,Ana,356.21,87.41
+2023-01-05,Produto C,Alimentos,12,442.82,436.53,Curitiba,Carlos,6.29,1.42
+2023-08-06,Produto A,Eletrônicos,4,411.69,133.71,Curitiba,Ana,277.98,67.52
+2023-09-12,Produto B,Alimentos,16,315.15,298.43,São Paulo,Ana,16.72,5.31
+2023-12-25,Produto C,Roupas,4,558.75,237.11,Rio de Janeiro,João,321.64,57.56
+2023-10-10,Produto D,Roupas,5,842.76,373.84,Rio de Janeiro,Ana,468.92,55.64
+2023-07-26,Produto D,Brinquedos,5,351.73,217.02,São Paulo,Mariana,134.71,38.3
+2023-01-15,Produto D,Roupas,8,948.15,441.39,Rio de Janeiro,Mariana,506.76,53.45
+2023-12-12,Produto A,Brinquedos,10,886.0,378.72,Curitiba,João,507.28,57.26
+2023-02-11,Produto B,Brinquedos,17,245.59,341.47,Curitiba,Ana,-95.88,-39.04
+2023-06-28,Produto D,Alimentos,9,807.65,408.31,São Paulo,Mariana,399.34,49.44
+2023-03-04,Produto B,Alimentos,19,617.13,389.31,Belo Horizonte,Carlos,227.82,36.92
+2023-12-18,Produto D,Roupas,14,609.92,66.17,São Paulo,João,543.75,89.15
+2023-08-19,Produto C,Roupas,8,451.94,227.63,Curitiba,Carlos,224.31,49.63
+2023-08-29,Produto B,Eletrônicos,9,551.04,468.86,Belo Horizonte,Carlos,82.18,14.91
+2023-02-21,Produto D,Eletrônicos,11,457.46,106.58,Belo Horizonte,Mariana,350.88,76.7
+2023-04-06,Produto C,Brinquedos,1,585.76,381.69,São Paulo,Ana,204.07,34.84
+2023-08-10,Produto B,Eletrônicos,14,665.16,488.57,São Paulo,Ana,176.59,26.55
+2023-08-19,Produto A,Alimentos,5,706.87,73.49,São Paulo,João,633.38,89.6
+2023-08-25,Produto A,Brinquedos,14,579.23,356.99,Rio de Janeiro,Mariana,222.24,38.37
+2023-05-23,Produto C,Eletrônicos,4,749.28,260.67,Belo Horizonte,Ana,488.61,65.21
+2023-06-20,Produto D,Brinquedos,1,227.15,310.63,São Paulo,João,-83.48,-36.75
+2023-01-29,Produto C,Alimentos,19,290.78,88.4,Curitiba,Carlos,202.38,69.6
+2023-02-05,Produto A,Eletrônicos,8,836.86,69.35,Belo Horizonte,João,767.51,91.71
+2023-01-13,Produto A,Alimentos,15,390.28,350.09,São Paulo,Mariana,40.19,10.3
+2023-06-09,Produto D,Eletrônicos,15,120.6,420.49,Curitiba,Carlos,-299.89,-248.67
+2023-11-23,Produto B,Brinquedos,9,238.41,401.91,São Paulo,Ana,-163.5,-68.58
+2023-07-06,Produto D,Brinquedos,9,301.25,294.71,Curitiba,Carlos,6.54,2.17
+2023-08-31,Produto D,Eletrônicos,10,961.59,94.94,São Paulo,Mariana,866.65,90.13
+2023-03-27,Produto C,Brinquedos,9,615.74,359.62,Belo Horizonte,Mariana,256.12,41.6
+2023-10-11,Produto A,Roupas,3,939.46,158.85,Belo Horizonte,Carlos,780.61,83.09
+2023-03-07,Produto B,Eletrônicos,11,617.65,459.98,Curitiba,Carlos,157.67,25.53
+2023-06-19,Produto D,Brinquedos,6,531.42,427.22,São Paulo,João,104.2,19.61
+2023-02-14,Produto D,Roupas,2,382.35,369.22,São Paulo,Carlos,13.13,3.43
+2023-03-03,Produto B,Eletrônicos,7,645.73,476.98,Belo Horizonte,João,168.75,26.13
+2023-05-14,Produto B,Alimentos,18,225.28,64.14,Rio de Janeiro,Mariana,161.14,71.53
+2023-10-11,Produto A,Brinquedos,2,908.44,381.29,Rio de Janeiro,Carlos,527.15,58.03
+2023-01-28,Produto C,Brinquedos,17,846.4,198.61,São Paulo,Carlos,647.79,76.53
+2023-04-18,Produto B,Brinquedos,11,385.78,457.73,São Paulo,Mariana,-71.95,-18.65
+2023-02-13,Produto D,Eletrônicos,12,957.52,170.0,Rio de Janeiro,Carlos,787.52,82.25
+2023-12-06,Produto B,Brinquedos,19,842.68,376.19,São Paulo,Mariana,466.49,55.36
+2023-10-13,Produto D,Roupas,7,699.68,444.94,São Paulo,Carlos,254.74,36.41
+2023-11-27,Produto C,Eletrônicos,6,209.59,68.75,Belo Horizonte,Mariana,140.84,67.2
+2023-05-08,Produto A,Eletrônicos,1,530.41,228.94,Rio de Janeiro,Ana,301.47,56.84
+2023-12-14,Produto D,Alimentos,17,555.5,393.04,Curitiba,João,162.46,29.25
+2023-08-19,Produto B,Brinquedos,11,309.3,254.71,Rio de Janeiro,Carlos,54.59,17.65
+2023-07-09,Produto A,Roupas,18,171.97,170.26,São Paulo,Carlos,1.71,0.99
+2023-08-13,Produto D,Roupas,17,799.05,148.91,Curitiba,Mariana,650.14,81.36
+2023-10-10,Produto B,Brinquedos,7,209.83,109.18,São Paulo,Mariana,100.65,47.97
+2023-05-01,Produto A,Brinquedos,17,634.86,435.71,Curitiba,Ana,199.15,31.37
+2023-04-26,Produto D,Eletrônicos,9,942.8,308.91,Belo Horizonte,João,633.89,67.23
+2023-08-21,Produto A,Brinquedos,17,888.49,84.37,Curitiba,Ana,804.12,90.5
+2023-09-16,Produto A,Eletrônicos,8,349.98,222.16,São Paulo,João,127.82,36.52
+2023-12-25,Produto B,Eletrônicos,17,866.3,215.48,Belo Horizonte,Ana,650.82,75.13
+2023-07-17,Produto D,Eletrônicos,7,100.3,131.78,Belo Horizonte,João,-31.48,-31.39
+2023-05-17,Produto A,Brinquedos,1,115.92,245.98,Rio de Janeiro,Mariana,-130.06,-112.2
+2023-11-14,Produto D,Alimentos,13,642.3,199.44,Rio de Janeiro,Mariana,442.86,68.95
+2023-06-14,Produto D,Alimentos,19,428.32,203.81,Curitiba,João,224.51,52.42
+2023-08-13,Produto D,Eletrônicos,19,447.81,382.56,Rio de Janeiro,Mariana,65.25,14.57
+2023-11-03,Produto A,Eletrônicos,17,608.0,150.47,Curitiba,Carlos,457.53,75.25
+2023-08-22,Produto B,Alimentos,13,272.6,338.84,Belo Horizonte,Mariana,-66.24,-24.3
+2023-06-21,Produto C,Eletrônicos,16,290.58,306.79,Curitiba,Ana,-16.21,-5.58
+2023-06-01,Produto D,Roupas,8,536.14,305.64,Rio de Janeiro,Carlos,230.5,42.99
+2023-11-11,Produto B,Alimentos,19,778.83,348.35,Rio de Janeiro,Ana,430.48,55.27
+2023-06-09,Produto A,Roupas,18,657.55,296.77,São Paulo,João,360.78,54.87
+2023-04-06,Produto C,Alimentos,1,367.62,445.66,Belo Horizonte,João,-78.04,-21.23
+2023-08-21,Produto B,Brinquedos,14,487.3,354.01,São Paulo,João,133.29,27.35
+2023-06-29,Produto D,Alimentos,19,253.6,296.13,Curitiba,Mariana,-42.53,-16.77
+2023-04-23,Produto B,Brinquedos,15,167.17,423.39,Belo Horizonte,Mariana,-256.22,-153.27
+2023-11-14,Produto A,Roupas,18,804.43,322.77,Curitiba,Carlos,481.66,59.88
+2023-02-21,Produto A,Roupas,2,338.85,181.01,São Paulo,Ana,157.84,46.58
+2023-09-25,Produto A,Alimentos,17,259.99,143.19,São Paulo,Mariana,116.8,44.92
+2023-10-22,Produto D,Alimentos,18,722.46,118.55,Curitiba,Mariana,603.91,83.59
+2023-04-23,Produto A,Eletrônicos,6,656.25,454.75,Rio de Janeiro,João,201.5,30.7
+2023-04-11,Produto A,Roupas,19,669.87,369.56,Curitiba,João,300.31,44.83
+2023-04-23,Produto C,Eletrônicos,4,306.01,471.82,Belo Horizonte,Carlos,-165.81,-54.18
+2023-03-22,Produto C,Alimentos,1,309.38,321.48,Belo Horizonte,Ana,-12.1,-3.91
+2023-07-06,Produto A,Eletrônicos,8,298.72,263.03,Belo Horizonte,Mariana,35.69,11.95
+2023-04-23,Produto B,Roupas,7,256.38,76.87,São Paulo,Ana,179.51,70.02
+2023-01-02,Produto A,Brinquedos,3,690.15,352.24,Rio de Janeiro,João,337.91,48.96
+2023-05-10,Produto C,Eletrônicos,10,863.21,311.99,Curitiba,João,551.22,63.86
+2023-08-08,Produto A,Alimentos,10,751.89,495.59,Rio de Janeiro,Mariana,256.3,34.09
+2023-02-23,Produto C,Roupas,19,812.88,157.62,São Paulo,João,655.26,80.61
+2023-12-09,Produto B,Eletrônicos,14,464.32,288.83,Belo Horizonte,João,175.49,37.8
+2023-08-12,Produto A,Eletrônicos,2,688.67,342.93,Curitiba,João,345.74,50.2
+2023-08-13,Produto C,Brinquedos,1,418.81,340.07,São Paulo,Ana,78.74,18.8
+2023-05-06,Produto C,Alimentos,18,572.95,302.58,Curitiba,Mariana,270.37,47.19
+2023-05-10,Produto B,Alimentos,7,533.47,399.62,Rio de Janeiro,Carlos,133.85,25.09
+2023-02-22,Produto C,Eletrônicos,8,259.2,142.24,Curitiba,Ana,116.96,45.12
+2023-06-21,Produto D,Brinquedos,1,448.37,376.53,Curitiba,João,71.84,16.02
+2023-08-06,Produto B,Eletrônicos,3,967.44,328.88,Rio de Janeiro,João,638.56,66.01
+2023-06-09,Produto B,Roupas,8,323.72,453.23,Curitiba,Mariana,-129.51,-40.01
+2023-07-17,Produto D,Alimentos,15,220.42,431.24,Rio de Janeiro,Ana,-210.82,-95.64
+2023-09-04,Produto B,Eletrônicos,5,476.72,191.82,Curitiba,João,284.9,59.76
+2023-11-20,Produto D,Eletrônicos,3,811.3,174.31,Belo Horizonte,Ana,636.99,78.51
+2023-07-22,Produto D,Alimentos,19,623.93,491.74,Curitiba,Carlos,132.19,21.19
+2023-07-03,Produto A,Eletrônicos,1,712.88,287.27,Belo Horizonte,Mariana,425.61,59.7
+2023-05-03,Produto C,Alimentos,15,270.73,457.89,São Paulo,João,-187.16,-69.13
+2023-09-12,Produto D,Roupas,8,657.05,123.75,Rio de Janeiro,João,533.3,81.17
+2023-10-21,Produto A,Brinquedos,2,391.15,339.27,Curitiba,João,51.88,13.26
+2023-10-07,Produto C,Brinquedos,3,850.87,414.44,São Paulo,João,436.43,51.29
+2023-11-21,Produto C,Eletrônicos,14,666.37,476.33,Belo Horizonte,Mariana,190.04,28.52
+2023-04-08,Produto A,Eletrônicos,14,278.97,201.8,São Paulo,Mariana,77.17,27.66
+2023-07-17,Produto A,Alimentos,11,158.16,376.24,São Paulo,João,-218.08,-137.89
+2023-08-28,Produto D,Alimentos,16,138.37,292.47,Curitiba,Carlos,-154.1,-111.37
+2023-05-24,Produto A,Eletrônicos,4,434.27,77.28,Belo Horizonte,Ana,356.99,82.2
+2023-04-07,Produto D,Alimentos,5,339.27,360.5,Belo Horizonte,Ana,-21.23,-6.26
+2023-07-20,Produto A,Eletrônicos,14,681.48,360.54,São Paulo,Ana,320.94,47.09
+2023-05-04,Produto D,Brinquedos,16,549.4,468.77,Belo Horizonte,Mariana,80.63,14.68
+2023-07-06,Produto C,Brinquedos,18,339.42,273.79,São Paulo,Mariana,65.63,19.34
+2023-11-22,Produto A,Eletrônicos,7,234.31,153.61,Belo Horizonte,Mariana,80.7,34.44
+2023-12-15,Produto A,Eletrônicos,10,214.48,70.05,Rio de Janeiro,Ana,144.43,67.34
+2023-09-16,Produto D,Roupas,7,878.19,237.04,Rio de Janeiro,João,641.15,73.01
+2023-05-28,Produto D,Alimentos,1,319.13,185.86,Rio de Janeiro,Carlos,133.27,41.76
+2023-09-09,Produto B,Roupas,19,686.54,392.49,Curitiba,Mariana,294.05,42.83
+2023-12-12,Produto B,Alimentos,16,829.62,209.42,Curitiba,João,620.2,74.76
+2023-05-27,Produto C,Eletrônicos,19,652.67,477.08,São Paulo,João,175.59,26.9
+2023-05-28,Produto A,Roupas,4,873.61,483.04,São Paulo,Ana,390.57,44.71
+2023-12-18,Produto C,Brinquedos,18,453.15,329.41,Curitiba,João,123.74,27.31
+2023-07-18,Produto B,Roupas,2,960.6,467.9,São Paulo,João,492.7,51.29
+2023-11-04,Produto C,Roupas,1,219.83,392.38,São Paulo,Ana,-172.55,-78.49
+2023-05-08,Produto B,Brinquedos,15,191.93,296.09,São Paulo,João,-104.16,-54.27
+2023-02-08,Produto C,Eletrônicos,5,692.82,131.14,São Paulo,Carlos,561.68,81.07
+2023-12-04,Produto A,Eletrônicos,11,948.55,256.37,São Paulo,João,692.18,72.97
+2023-12-26,Produto C,Brinquedos,10,828.0,302.39,Curitiba,Mariana,525.61,63.48
+2023-05-09,Produto C,Alimentos,2,168.78,438.78,Curitiba,Carlos,-270.0,-159.97
+2023-09-24,Produto B,Roupas,3,351.43,266.6,São Paulo,Mariana,84.83,24.14
+2023-05-31,Produto D,Eletrônicos,12,937.29,453.95,São Paulo,Mariana,483.34,51.57
+2023-10-25,Produto D,Roupas,5,327.75,353.46,Rio de Janeiro,Ana,-25.71,-7.84
+2023-04-09,Produto A,Roupas,5,803.05,111.65,São Paulo,João,691.4,86.1
+2023-09-20,Produto D,Roupas,6,842.62,497.74,Belo Horizonte,João,344.88,40.93
+2023-09-09,Produto C,Eletrônicos,9,545.91,287.25,Rio de Janeiro,Mariana,258.66,47.38
+2023-05-24,Produto D,Eletrônicos,2,447.71,226.34,Rio de Janeiro,Mariana,221.37,49.44
+2023-12-12,Produto B,Brinquedos,12,505.11,346.6,São Paulo,João,158.51,31.38
+2023-04-22,Produto A,Eletrônicos,3,304.27,99.0,São Paulo,Carlos,205.27,67.46
+2023-03-01,Produto D,Roupas,12,900.45,336.44,Rio de Janeiro,João,564.01,62.64
+2023-01-02,Produto B,Brinquedos,17,505.56,274.21,Rio de Janeiro,Ana,231.35,45.76
+2023-10-31,Produto D,Brinquedos,10,894.21,233.0,São Paulo,João,661.21,73.94
+2023-09-11,Produto D,Eletrônicos,14,195.12,478.86,Belo Horizonte,Mariana,-283.74,-145.42
+2023-05-20,Produto D,Eletrônicos,17,989.45,285.14,Rio de Janeiro,João,704.31,71.18
+2023-02-06,Produto D,Alimentos,18,498.95,148.6,Belo Horizonte,Ana,350.35,70.22
+2023-06-09,Produto C,Roupas,19,143.05,256.53,Curitiba,Carlos,-113.48,-79.33
+2023-01-09,Produto B,Brinquedos,17,134.22,463.72,São Paulo,Ana,-329.5,-245.49
+2023-08-21,Produto A,Roupas,14,771.59,129.24,Curitiba,Mariana,642.35,83.25
+2023-04-09,Produto D,Roupas,9,693.13,146.28,Belo Horizonte,Mariana,546.85,78.9
+2023-05-27,Produto C,Alimentos,8,821.92,55.86,Belo Horizonte,Mariana,766.06,93.2
+2023-10-31,Produto C,Alimentos,2,194.83,56.39,Belo Horizonte,Mariana,138.44,71.06
+2023-07-27,Produto A,Roupas,13,132.01,423.23,Rio de Janeiro,Ana,-291.22,-220.6
+2023-05-11,Produto A,Eletrônicos,7,557.72,379.46,Rio de Janeiro,Mariana,178.26,31.96
+2023-06-01,Produto B,Alimentos,9,448.84,209.77,Belo Horizonte,Ana,239.07,53.26
+2023-02-23,Produto C,Brinquedos,11,515.75,364.24,Curitiba,Carlos,151.51,29.38
+2023-04-30,Produto C,Eletrônicos,14,992.43,227.84,Rio de Janeiro,Ana,764.59,77.04
+2023-06-10,Produto A,Eletrônicos,4,973.67,478.8,Rio de Janeiro,Mariana,494.87,50.83
+2023-04-26,Produto C,Roupas,13,948.08,485.17,Rio de Janeiro,Ana,462.91,48.83
+2023-03-16,Produto B,Alimentos,2,805.46,226.76,Curitiba,João,578.7,71.85
+2023-04-23,Produto A,Roupas,5,419.36,434.4,São Paulo,Ana,-15.04,-3.59
+2023-04-14,Produto D,Eletrônicos,11,470.92,397.89,Curitiba,Carlos,73.03,15.51
+2023-12-06,Produto C,Alimentos,6,594.65,189.5,Curitiba,Carlos,405.15,68.13
+2023-09-11,Produto C,Eletrônicos,18,847.48,154.42,Curitiba,Mariana,693.06,81.78
+2023-08-15,Produto B,Roupas,10,161.84,256.21,Belo Horizonte,Carlos,-94.37,-58.31
+2023-04-22,Produto B,Roupas,4,481.87,401.61,São Paulo,Ana,80.26,16.66
+2023-04-09,Produto B,Brinquedos,9,174.36,482.08,São Paulo,Carlos,-307.72,-176.49
+2023-06-02,Produto A,Brinquedos,6,563.19,393.61,São Paulo,Mariana,169.58,30.11
+2023-12-15,Produto C,Roupas,2,909.01,434.84,Curitiba,Carlos,474.17,52.16
+2023-12-04,Produto C,Brinquedos,17,804.24,321.38,São Paulo,Carlos,482.86,60.04
+2023-07-13,Produto A,Roupas,5,305.06,425.93,Belo Horizonte,Mariana,-120.87,-39.62
+2023-11-06,Produto B,Roupas,6,978.39,402.99,Curitiba,João,575.4,58.81
+2023-06-12,Produto A,Eletrônicos,12,700.62,219.64,Curitiba,Ana,480.98,68.65
+2023-07-27,Produto A,Eletrônicos,10,109.38,298.4,Rio de Janeiro,Mariana,-189.02,-172.81
+2023-06-18,Produto A,Alimentos,6,329.87,412.14,Belo Horizonte,Ana,-82.27,-24.94
+2023-06-10,Produto D,Eletrônicos,8,334.64,70.73,Belo Horizonte,Carlos,263.91,78.86
+2023-03-09,Produto B,Roupas,2,162.33,413.64,Curitiba,Ana,-251.31,-154.81
+2023-10-16,Produto A,Roupas,12,963.84,130.05,Rio de Janeiro,Mariana,833.79,86.51
+2023-10-04,Produto D,Eletrônicos,13,530.43,281.61,São Paulo,João,248.82,46.91
+2023-10-31,Produto A,Eletrônicos,7,906.23,413.72,Curitiba,João,492.51,54.35
+2023-05-15,Produto B,Eletrônicos,10,389.99,164.22,Curitiba,Ana,225.77,57.89
+2023-07-14,Produto D,Brinquedos,13,212.71,160.61,Rio de Janeiro,Ana,52.1,24.49
+2023-05-08,Produto B,Roupas,17,526.9,231.24,Belo Horizonte,João,295.66,56.11
+2023-02-02,Produto B,Alimentos,14,202.56,452.59,Curitiba,João,-250.03,-123.44
+2023-06-25,Produto A,Eletrônicos,2,537.41,50.2,Curitiba,Mariana,487.21,90.66
+2023-01-22,Produto D,Alimentos,11,928.27,455.62,Curitiba,Mariana,472.65,50.92
+2023-08-26,Produto A,Brinquedos,1,568.69,119.21,São Paulo,João,449.48,79.04
+2023-06-07,Produto C,Brinquedos,19,654.85,495.54,Rio de Janeiro,Carlos,159.31,24.33
+2023-02-07,Produto B,Alimentos,4,240.97,479.68,Belo Horizonte,Carlos,-238.71,-99.06
+2023-08-18,Produto D,Brinquedos,19,139.36,272.6,Rio de Janeiro,Carlos,-133.24,-95.61
+2023-12-31,Produto D,Brinquedos,11,199.73,280.72,Rio de Janeiro,Carlos,-80.99,-40.55
+2023-02-20,Produto C,Roupas,8,638.68,266.7,Curitiba,Mariana,371.98,58.24
+2023-09-21,Produto C,Alimentos,11,185.51,335.95,São Paulo,Mariana,-150.44,-81.1
+2023-10-10,Produto D,Eletrônicos,4,438.39,90.82,Belo Horizonte,Mariana,347.57,79.28
+2023-01-27,Produto B,Brinquedos,17,595.08,64.68,Belo Horizonte,Mariana,530.4,89.13
+2023-08-14,Produto A,Brinquedos,7,449.79,75.97,Curitiba,Ana,373.82,83.11
+2023-10-04,Produto D,Eletrônicos,8,247.32,249.96,Curitiba,Mariana,-2.64,-1.07
+2023-10-13,Produto C,Brinquedos,3,346.41,174.0,São Paulo,Ana,172.41,49.77
+2023-04-07,Produto C,Alimentos,2,935.49,329.92,Belo Horizonte,Carlos,605.57,64.73
+2023-10-11,Produto B,Eletrônicos,15,708.38,496.6,Curitiba,Mariana,211.78,29.9
+2023-11-13,Produto B,Brinquedos,5,546.44,223.85,Rio de Janeiro,João,322.59,59.03
+2023-10-31,Produto D,Brinquedos,1,111.44,308.23,Curitiba,Carlos,-196.79,-176.59
+2023-05-27,Produto A,Alimentos,4,993.17,237.02,São Paulo,Mariana,756.15,76.14
+2023-01-04,Produto D,Alimentos,15,704.31,431.27,Belo Horizonte,Ana,273.04,38.77
+2023-02-04,Produto B,Eletrônicos,19,385.23,456.01,Curitiba,Carlos,-70.78,-18.37
+2023-07-11,Produto A,Eletrônicos,3,891.34,444.81,Belo Horizonte,João,446.53,50.1
+2023-02-18,Produto B,Alimentos,11,332.59,488.47,Belo Horizonte,João,-155.88,-46.87
+2023-01-17,Produto C,Alimentos,17,589.61,62.38,São Paulo,João,527.23,89.42
+2023-06-21,Produto C,Roupas,13,672.46,427.92,São Paulo,Mariana,244.54,36.36
+2023-08-08,Produto A,Brinquedos,11,298.96,388.3,São Paulo,João,-89.34,-29.88
+2023-06-07,Produto B,Brinquedos,2,980.56,152.91,Rio de Janeiro,Ana,827.65,84.41
+2023-02-15,Produto B,Eletrônicos,9,773.37,480.34,Rio de Janeiro,João,293.03,37.89
+2023-01-06,Produto A,Alimentos,2,602.03,116.68,Curitiba,Carlos,485.35,80.62
+2023-04-09,Produto B,Eletrônicos,9,262.54,355.8,Rio de Janeiro,Carlos,-93.26,-35.52
+2023-08-21,Produto D,Roupas,9,148.47,151.2,Rio de Janeiro,Mariana,-2.73,-1.84
+2023-02-06,Produto A,Brinquedos,8,388.05,244.12,Curitiba,Carlos,143.93,37.09
+2023-10-07,Produto B,Alimentos,17,777.87,373.62,Curitiba,Carlos,404.25,51.97
+2023-12-15,Produto D,Alimentos,1,342.4,303.5,Rio de Janeiro,João,38.9,11.36
+2023-10-29,Produto A,Eletrônicos,11,585.6,242.38,Belo Horizonte,Ana,343.22,58.61
+2023-06-30,Produto D,Eletrônicos,8,755.15,196.85,Curitiba,Ana,558.3,73.93
+2023-04-05,Produto B,Eletrônicos,10,197.15,427.85,Rio de Janeiro,Mariana,-230.7,-117.02
+2023-04-09,Produto A,Roupas,7,716.77,114.72,Belo Horizonte,Carlos,602.05,83.99
+2023-07-07,Produto D,Brinquedos,3,182.68,243.55,São Paulo,João,-60.87,-33.32
+2023-04-26,Produto B,Roupas,3,968.62,456.69,Rio de Janeiro,Mariana,511.93,52.85
+2023-07-10,Produto C,Alimentos,18,539.55,430.63,Rio de Janeiro,Mariana,108.92,20.19
+2023-09-10,Produto D,Eletrônicos,5,235.61,230.42,Rio de Janeiro,Ana,5.19,2.2
+2023-06-10,Produto A,Alimentos,12,408.15,393.4,Curitiba,Mariana,14.75,3.61
+2023-09-13,Produto A,Alimentos,12,472.07,420.42,Curitiba,João,51.65,10.94
+2023-11-19,Produto C,Alimentos,19,782.37,450.0,Belo Horizonte,João,332.37,42.48
+2023-05-08,Produto C,Eletrônicos,6,769.08,295.03,Rio de Janeiro,Mariana,474.05,61.64
+2023-01-18,Produto D,Alimentos,2,650.75,142.01,Belo Horizonte,João,508.74,78.18
+2023-10-08,Produto D,Eletrônicos,12,195.34,164.89,Belo Horizonte,Mariana,30.45,15.59
+2023-08-11,Produto D,Roupas,19,236.41,183.06,Curitiba,Ana,53.35,22.57
+2023-02-23,Produto C,Brinquedos,5,184.38,317.21,Belo Horizonte,João,-132.83,-72.04
+2023-02-27,Produto C,Roupas,12,619.46,64.76,Curitiba,Ana,554.7,89.55
+2023-11-19,Produto B,Alimentos,17,889.42,336.22,São Paulo,João,553.2,62.2
+2023-12-26,Produto C,Brinquedos,17,490.42,213.96,São Paulo,Mariana,276.46,56.37
+2023-06-23,Produto C,Brinquedos,10,244.76,182.86,Rio de Janeiro,João,61.9,25.29
+2023-10-07,Produto A,Brinquedos,17,602.24,445.77,Belo Horizonte,João,156.47,25.98
+2023-04-24,Produto A,Alimentos,15,830.58,257.0,São Paulo,João,573.58,69.06
+2023-10-15,Produto A,Roupas,12,767.54,92.77,Curitiba,Ana,674.77,87.91
+2023-12-08,Produto B,Eletrônicos,16,893.31,422.04,Curitiba,João,471.27,52.76
+2023-05-31,Produto B,Roupas,19,350.11,71.44,Curitiba,Mariana,278.67,79.59
+2023-05-07,Produto A,Alimentos,8,274.56,377.04,Belo Horizonte,Ana,-102.48,-37.33
+2023-06-04,Produto D,Alimentos,17,891.83,398.26,Rio de Janeiro,João,493.57,55.34
+2023-09-30,Produto C,Alimentos,5,691.8,208.67,Rio de Janeiro,Ana,483.13,69.84
+2023-04-14,Produto D,Alimentos,16,379.84,421.15,Belo Horizonte,Ana,-41.31,-10.88
+2023-10-26,Produto D,Eletrônicos,6,768.11,282.05,Curitiba,Ana,486.06,63.28
+2023-09-03,Produto D,Alimentos,8,833.61,258.48,Curitiba,Mariana,575.13,68.99
+2023-06-25,Produto A,Roupas,18,653.48,70.43,Belo Horizonte,João,583.05,89.22
+2023-02-08,Produto D,Brinquedos,12,719.1,180.51,Belo Horizonte,Mariana,538.59,74.9
+2023-06-19,Produto C,Roupas,15,437.73,468.95,Rio de Janeiro,João,-31.22,-7.13
+2023-09-04,Produto A,Brinquedos,9,584.83,226.32,Curitiba,Ana,358.51,61.3
+2023-01-26,Produto B,Alimentos,13,571.74,296.02,São Paulo,Ana,275.72,48.22
+2023-12-21,Produto A,Eletrônicos,15,863.24,289.41,Rio de Janeiro,João,573.83,66.47
+2023-11-02,Produto C,Brinquedos,10,855.97,315.69,São Paulo,Mariana,540.28,63.12
+2023-01-13,Produto D,Brinquedos,16,849.41,77.6,Curitiba,Ana,771.81,90.86
+2023-11-12,Produto D,Eletrônicos,7,109.93,212.98,Belo Horizonte,Ana,-103.05,-93.74
+2023-11-09,Produto C,Brinquedos,17,774.59,375.41,Curitiba,Ana,399.18,51.53
+2023-02-05,Produto D,Alimentos,7,782.81,140.25,Rio de Janeiro,Ana,642.56,82.08
+2023-06-22,Produto A,Alimentos,14,710.54,141.61,Rio de Janeiro,Carlos,568.93,80.07
+2023-01-20,Produto B,Eletrônicos,15,780.64,54.54,Curitiba,João,726.1,93.01
+2023-11-17,Produto A,Roupas,7,857.77,246.87,Rio de Janeiro,Ana,610.9,71.22
+2023-09-21,Produto B,Roupas,9,523.29,447.23,Curitiba,João,76.06,14.53
+2023-05-22,Produto D,Eletrônicos,19,551.85,73.36,São Paulo,Carlos,478.49,86.71
+2023-05-23,Produto C,Brinquedos,16,212.24,136.0,São Paulo,Carlos,76.24,35.92
+2023-04-02,Produto B,Alimentos,8,446.84,189.54,Belo Horizonte,Ana,257.3,57.58
+2023-12-20,Produto A,Eletrônicos,18,679.03,379.28,Belo Horizonte,João,299.75,44.14
+2023-11-18,Produto B,Roupas,18,802.36,338.29,Curitiba,Mariana,464.07,57.84
+2023-10-15,Produto D,Brinquedos,7,295.49,237.17,Rio de Janeiro,João,58.32,19.74
+2023-08-03,Produto A,Eletrônicos,3,224.04,391.58,Curitiba,Ana,-167.54,-74.78
+2023-12-08,Produto D,Roupas,18,696.74,324.33,São Paulo,Mariana,372.41,53.45
+2023-02-20,Produto B,Alimentos,10,101.69,453.22,São Paulo,Carlos,-351.53,-345.69
+2023-06-02,Produto A,Alimentos,7,260.54,418.11,Rio de Janeiro,Ana,-157.57,-60.48
+2023-07-05,Produto C,Alimentos,17,126.16,163.77,Belo Horizonte,Carlos,-37.61,-29.81
+2023-03-04,Produto C,Alimentos,14,250.2,172.15,Rio de Janeiro,Ana,78.05,31.2
+2023-07-09,Produto B,Alimentos,3,263.19,106.41,Curitiba,Carlos,156.78,59.57
+2023-05-05,Produto A,Roupas,12,448.91,201.63,Curitiba,Ana,247.28,55.08
+2023-05-30,Produto D,Brinquedos,13,462.09,499.79,Curitiba,Ana,-37.7,-8.16
+2023-11-10,Produto A,Alimentos,2,886.84,232.59,Rio de Janeiro,Carlos,654.25,73.77
+2023-02-27,Produto C,Eletrônicos,3,559.1,149.22,Rio de Janeiro,Carlos,409.88,73.31
+2023-12-08,Produto D,Brinquedos,5,751.06,393.12,Belo Horizonte,Ana,357.94,47.66
+2023-11-01,Produto D,Brinquedos,11,193.72,294.11,São Paulo,João,-100.39,-51.82
+2023-06-29,Produto D,Roupas,8,302.89,117.32,Curitiba,Ana,185.57,61.27
+2023-06-19,Produto B,Alimentos,12,732.65,221.31,Belo Horizonte,Ana,511.34,69.79
+2023-11-22,Produto D,Roupas,7,147.52,236.51,Belo Horizonte,Mariana,-88.99,-60.32
+2023-09-28,Produto B,Eletrônicos,15,537.94,389.22,São Paulo,Ana,148.72,27.65
+2023-02-23,Produto B,Alimentos,17,639.43,59.3,Curitiba,Mariana,580.13,90.73
+2023-04-11,Produto B,Brinquedos,4,641.93,171.06,Belo Horizonte,Ana,470.87,73.35
+2023-09-21,Produto B,Alimentos,13,120.64,282.92,Curitiba,João,-162.28,-134.52
+2023-02-22,Produto B,Brinquedos,18,389.9,170.98,São Paulo,Mariana,218.92,56.15
+2023-03-01,Produto D,Brinquedos,1,672.84,332.8,Curitiba,Ana,340.04,50.54
+2023-04-18,Produto B,Brinquedos,16,234.1,266.84,Belo Horizonte,Mariana,-32.74,-13.99
+2023-01-05,Produto D,Alimentos,13,725.87,212.77,Curitiba,João,513.1,70.69
+2023-04-13,Produto C,Brinquedos,10,771.33,477.14,Belo Horizonte,Mariana,294.19,38.14
+2023-07-15,Produto C,Roupas,12,983.77,334.47,São Paulo,Mariana,649.3,66.0
+2023-09-19,Produto C,Alimentos,2,288.86,108.47,Belo Horizonte,João,180.39,62.45
+2023-12-31,Produto B,Eletrônicos,3,842.62,302.04,São Paulo,Ana,540.58,64.15
+2023-12-16,Produto A,Brinquedos,10,568.27,401.33,Belo Horizonte,Mariana,166.94,29.38
+2023-02-16,Produto C,Roupas,2,436.12,368.82,Rio de Janeiro,Carlos,67.3,15.43
+2023-12-21,Produto B,Eletrônicos,13,210.14,127.44,São Paulo,João,82.7,39.35
+2023-11-07,Produto B,Eletrônicos,13,761.96,487.59,São Paulo,Ana,274.37,36.01
+2023-11-04,Produto B,Eletrônicos,18,312.27,251.97,São Paulo,Carlos,60.3,19.31
+2023-05-24,Produto D,Alimentos,3,434.28,121.56,Belo Horizonte,Ana,312.72,72.01
+2023-09-26,Produto D,Eletrônicos,7,156.29,131.09,São Paulo,João,25.2,16.12
+2023-05-04,Produto A,Brinquedos,14,821.23,94.21,São Paulo,Mariana,727.02,88.53
+2023-04-16,Produto A,Alimentos,17,789.93,411.58,Rio de Janeiro,João,378.35,47.9
+2023-06-07,Produto A,Roupas,12,760.25,104.91,São Paulo,Ana,655.34,86.2
+2023-05-27,Produto A,Roupas,16,369.5,106.31,São Paulo,João,263.19,71.23
+2023-05-25,Produto B,Brinquedos,12,256.13,432.71,Belo Horizonte,João,-176.58,-68.94
+2023-04-30,Produto C,Roupas,15,673.8,205.07,São Paulo,Carlos,468.73,69.57
+2023-11-15,Produto A,Alimentos,10,546.55,63.89,Belo Horizonte,João,482.66,88.31
+2023-10-02,Produto C,Eletrônicos,7,260.43,73.35,Belo Horizonte,Ana,187.08,71.84
+2023-04-02,Produto C,Roupas,5,717.32,113.98,São Paulo,João,603.34,84.11
+2023-02-27,Produto D,Roupas,1,992.01,146.03,Belo Horizonte,Mariana,845.98,85.28
+2023-12-12,Produto B,Brinquedos,17,772.5,349.32,São Paulo,Ana,423.18,54.78
+2023-08-17,Produto D,Brinquedos,3,765.99,120.8,Belo Horizonte,Ana,645.19,84.23
+2023-04-27,Produto B,Brinquedos,13,955.28,103.49,Rio de Janeiro,João,851.79,89.17
+2023-11-14,Produto D,Alimentos,14,282.64,394.12,Belo Horizonte,Ana,-111.48,-39.44
+2023-10-06,Produto D,Eletrônicos,18,608.99,351.97,Curitiba,Carlos,257.02,42.2
+2023-05-07,Produto A,Roupas,4,981.68,245.9,Rio de Janeiro,Mariana,735.78,74.95
+2023-05-09,Produto A,Brinquedos,18,248.76,297.19,São Paulo,Ana,-48.43,-19.47
+2023-02-27,Produto C,Brinquedos,5,730.23,190.39,Curitiba,João,539.84,73.93
+2023-05-02,Produto B,Brinquedos,16,627.23,267.13,Curitiba,Carlos,360.1,57.41
+2023-01-01,Produto D,Roupas,1,627.83,278.0,São Paulo,João,349.83,55.72
+2023-08-27,Produto A,Eletrônicos,14,727.9,224.26,Belo Horizonte,Mariana,503.64,69.19
+2023-10-17,Produto D,Alimentos,15,936.66,457.96,Belo Horizonte,Mariana,478.7,51.11
+2023-04-06,Produto C,Roupas,9,804.32,57.23,Belo Horizonte,João,747.09,92.88
+2023-05-06,Produto C,Alimentos,15,150.52,401.98,Belo Horizonte,Mariana,-251.46,-167.06
+2023-04-28,Produto D,Brinquedos,17,867.46,105.97,Curitiba,Ana,761.49,87.78
+2023-02-17,Produto D,Roupas,4,302.99,408.9,Curitiba,João,-105.91,-34.95
+2023-03-30,Produto C,Roupas,12,439.22,327.16,São Paulo,João,112.06,25.51
+2023-08-25,Produto A,Alimentos,5,515.56,429.48,Belo Horizonte,João,86.08,16.7
+2023-09-29,Produto C,Brinquedos,5,532.82,93.88,Rio de Janeiro,Ana,438.94,82.38
+2023-07-08,Produto B,Roupas,11,491.66,301.54,Belo Horizonte,João,190.12,38.67
+2023-07-11,Produto B,Eletrônicos,6,943.62,275.49,Belo Horizonte,João,668.13,70.8
+2023-03-10,Produto B,Eletrônicos,7,735.42,367.79,Belo Horizonte,Carlos,367.63,49.99
+2023-10-05,Produto A,Brinquedos,14,668.05,290.43,São Paulo,Mariana,377.62,56.53
+2023-12-15,Produto C,Brinquedos,11,144.86,293.33,Rio de Janeiro,Carlos,-148.47,-102.49
+2023-09-04,Produto D,Alimentos,13,913.52,243.32,Curitiba,Mariana,670.2,73.36
+2023-03-17,Produto C,Roupas,2,918.45,188.98,Curitiba,Mariana,729.47,79.42
+2023-06-03,Produto A,Brinquedos,7,802.19,267.02,Rio de Janeiro,João,535.17,66.71
+2023-05-24,Produto C,Alimentos,4,106.33,103.32,Curitiba,Carlos,3.01,2.83
+2023-03-27,Produto D,Eletrônicos,8,151.55,482.68,Belo Horizonte,Carlos,-331.13,-218.5
+2023-07-04,Produto A,Roupas,19,302.7,371.48,Belo Horizonte,Carlos,-68.78,-22.72
+2023-10-12,Produto A,Alimentos,13,218.21,478.61,Rio de Janeiro,Ana,-260.4,-119.33
+2023-08-08,Produto A,Roupas,14,458.95,152.03,Curitiba,Ana,306.92,66.87
+2023-03-10,Produto C,Roupas,10,930.36,445.7,São Paulo,Mariana,484.66,52.09
+2023-02-16,Produto D,Alimentos,11,524.85,413.96,Rio de Janeiro,Carlos,110.89,21.13
+2023-04-04,Produto A,Brinquedos,2,112.06,354.72,Curitiba,Carlos,-242.66,-216.54
+2023-08-26,Produto A,Brinquedos,9,354.47,331.26,Rio de Janeiro,Ana,23.21,6.55
+2023-07-23,Produto C,Brinquedos,17,140.14,192.45,Belo Horizonte,Carlos,-52.31,-37.33
+2023-08-06,Produto D,Eletrônicos,3,132.66,417.38,Belo Horizonte,Ana,-284.72,-214.62
+2023-12-07,Produto A,Eletrônicos,6,348.15,275.68,Belo Horizonte,Mariana,72.47,20.82
+2023-02-08,Produto B,Alimentos,5,348.05,81.9,Rio de Janeiro,Mariana,266.15,76.47
+2023-04-10,Produto A,Roupas,5,808.41,190.79,Curitiba,Ana,617.62,76.4
+2023-10-16,Produto C,Roupas,15,977.35,470.88,Curitiba,Mariana,506.47,51.82
+2023-09-11,Produto A,Alimentos,17,434.09,432.81,Curitiba,Carlos,1.28,0.29
+2023-08-10,Produto B,Brinquedos,9,486.0,491.86,Curitiba,Mariana,-5.86,-1.21
+2023-12-23,Produto C,Eletrônicos,3,860.31,332.6,Curitiba,Carlos,527.71,61.34
+2023-01-23,Produto C,Roupas,17,341.33,161.38,São Paulo,Carlos,179.95,52.72
+2023-09-07,Produto A,Roupas,10,240.74,123.27,Rio de Janeiro,João,117.47,48.8
+2023-01-10,Produto D,Eletrônicos,3,867.78,134.11,Curitiba,Mariana,733.67,84.55
+2023-09-03,Produto D,Eletrônicos,18,141.85,58.91,Rio de Janeiro,Carlos,82.94,58.47
+2023-11-21,Produto B,Brinquedos,18,657.73,225.81,Rio de Janeiro,Carlos,431.92,65.67
+2023-04-10,Produto B,Eletrônicos,17,605.79,136.14,Belo Horizonte,Carlos,469.65,77.53
+2023-10-17,Produto A,Alimentos,3,411.33,235.24,São Paulo,Mariana,176.09,42.81
+2023-06-29,Produto A,Brinquedos,3,383.67,470.75,Belo Horizonte,Mariana,-87.08,-22.7
+2023-08-11,Produto C,Roupas,6,794.67,243.74,Curitiba,Ana,550.93,69.33
+2023-09-07,Produto A,Roupas,13,177.78,445.09,Belo Horizonte,Carlos,-267.31,-150.36
+2023-05-27,Produto C,Roupas,15,313.11,322.48,Curitiba,Ana,-9.37,-2.99
+2023-04-06,Produto B,Alimentos,9,759.2,161.21,Rio de Janeiro,João,597.99,78.77
+2023-09-14,Produto A,Eletrônicos,4,593.49,210.13,Belo Horizonte,João,383.36,64.59
+2023-11-21,Produto B,Alimentos,14,215.19,87.76,Rio de Janeiro,Ana,127.43,59.22
+2023-01-04,Produto B,Roupas,5,893.92,200.06,Belo Horizonte,João,693.86,77.62
+2023-01-16,Produto A,Brinquedos,2,454.1,354.89,Curitiba,Carlos,99.21,21.85
+2023-10-07,Produto A,Roupas,11,845.08,82.45,Belo Horizonte,Ana,762.63,90.24
+2023-12-02,Produto D,Alimentos,9,808.94,142.43,São Paulo,Ana,666.51,82.39
+2023-09-04,Produto D,Brinquedos,3,661.98,221.65,Belo Horizonte,João,440.33,66.52
+2023-09-15,Produto D,Eletrônicos,9,545.03,491.92,Curitiba,Carlos,53.11,9.74
+2023-06-09,Produto A,Eletrônicos,3,981.6,403.19,Rio de Janeiro,Carlos,578.41,58.93
+2023-12-06,Produto D,Roupas,2,230.47,380.07,Rio de Janeiro,João,-149.6,-64.91
+2023-06-01,Produto B,Eletrônicos,12,752.64,102.29,São Paulo,Carlos,650.35,86.41
+2023-06-27,Produto B,Roupas,10,272.07,401.45,São Paulo,João,-129.38,-47.55
+2023-06-12,Produto B,Alimentos,9,404.44,403.37,Curitiba,Ana,1.07,0.26
+2023-02-02,Produto B,Alimentos,15,377.83,320.5,Belo Horizonte,Carlos,57.33,15.17
+2023-06-28,Produto B,Eletrônicos,8,952.33,495.66,Curitiba,Ana,456.67,47.95
+2023-04-11,Produto C,Eletrônicos,5,970.62,196.36,Belo Horizonte,Mariana,774.26,79.77
+2023-09-25,Produto D,Eletrônicos,11,264.71,473.57,São Paulo,Carlos,-208.86,-78.9
+2023-11-19,Produto C,Roupas,2,119.83,461.63,Belo Horizonte,Carlos,-341.8,-285.24
+2023-03-06,Produto D,Brinquedos,15,748.01,55.17,Rio de Janeiro,Ana,692.84,92.62
+2023-06-17,Produto A,Brinquedos,6,476.19,252.55,Rio de Janeiro,Mariana,223.64,46.96
+2023-11-26,Produto D,Brinquedos,8,179.96,489.7,Curitiba,João,-309.74,-172.12
+2023-02-12,Produto C,Roupas,5,715.38,96.4,Rio de Janeiro,Ana,618.98,86.52
+2023-02-13,Produto A,Roupas,16,590.59,296.5,Rio de Janeiro,Carlos,294.09,49.8
+2023-10-12,Produto C,Alimentos,18,982.47,490.53,Belo Horizonte,Carlos,491.94,50.07
+2023-01-12,Produto A,Roupas,6,304.67,299.97,Curitiba,Ana,4.7,1.54
+2023-04-05,Produto D,Roupas,5,463.58,135.42,Curitiba,Mariana,328.16,70.79
+2023-10-29,Produto D,Eletrônicos,16,588.29,311.98,Curitiba,Mariana,276.31,46.97
+2023-09-10,Produto B,Eletrônicos,13,812.53,142.0,São Paulo,Ana,670.53,82.52
+2023-08-30,Produto C,Brinquedos,5,593.95,283.87,Belo Horizonte,João,310.08,52.21
+2023-02-04,Produto A,Brinquedos,13,651.61,83.32,Belo Horizonte,Mariana,568.29,87.21
+2023-08-03,Produto C,Brinquedos,17,303.53,322.47,São Paulo,João,-18.94,-6.24
+2023-12-03,Produto A,Brinquedos,18,862.23,282.56,Curitiba,Carlos,579.67,67.23
+2023-03-31,Produto A,Brinquedos,8,485.77,383.07,Curitiba,Ana,102.7,21.14
+2023-09-21,Produto D,Eletrônicos,13,226.86,333.82,Belo Horizonte,Carlos,-106.96,-47.15
+2023-04-03,Produto B,Brinquedos,19,697.77,297.32,Belo Horizonte,Ana,400.45,57.39
+2023-03-31,Produto C,Brinquedos,3,294.48,360.4,São Paulo,Carlos,-65.92,-22.39
+2023-04-25,Produto C,Brinquedos,8,187.81,114.77,Curitiba,Ana,73.04,38.89
+2023-04-15,Produto C,Brinquedos,2,875.79,317.91,Belo Horizonte,Mariana,557.88,63.7
+2023-07-15,Produto C,Eletrônicos,8,514.15,127.45,Rio de Janeiro,Ana,386.7,75.21
+2023-11-10,Produto C,Brinquedos,13,774.36,466.48,Rio de Janeiro,Carlos,307.88,39.76
+2023-04-24,Produto A,Brinquedos,13,361.53,80.75,São Paulo,Mariana,280.78,77.66
+2023-03-16,Produto D,Alimentos,1,808.27,243.67,Rio de Janeiro,João,564.6,69.85
+2023-08-05,Produto A,Roupas,6,200.74,363.11,Rio de Janeiro,Ana,-162.37,-80.89
+2023-10-04,Produto B,Alimentos,19,420.38,256.11,Belo Horizonte,Mariana,164.27,39.08
+2023-09-06,Produto A,Eletrônicos,16,980.26,91.44,Curitiba,Ana,888.82,90.67
+2023-06-13,Produto C,Brinquedos,8,814.59,299.02,Curitiba,Mariana,515.57,63.29
+2023-12-23,Produto C,Eletrônicos,1,547.53,338.73,Curitiba,Mariana,208.8,38.13
+2023-07-11,Produto D,Eletrônicos,16,405.8,366.71,Curitiba,João,39.09,9.63
+2023-08-15,Produto C,Alimentos,9,884.92,217.97,Rio de Janeiro,Carlos,666.95,75.37
+2023-06-26,Produto A,Brinquedos,13,590.36,303.65,Belo Horizonte,Ana,286.71,48.57
+2023-04-09,Produto C,Eletrônicos,11,782.58,252.81,Belo Horizonte,Ana,529.77,67.7
+2023-02-05,Produto A,Brinquedos,13,778.7,352.43,Rio de Janeiro,Carlos,426.27,54.74
+2023-04-06,Produto C,Eletrônicos,10,116.15,312.6,São Paulo,Carlos,-196.45,-169.13
+2023-06-01,Produto A,Roupas,4,213.63,286.59,Curitiba,Carlos,-72.96,-34.15
+2023-05-31,Produto B,Roupas,6,693.67,162.29,Belo Horizonte,Mariana,531.38,76.6
+2023-07-09,Produto A,Alimentos,7,245.46,50.91,Rio de Janeiro,Ana,194.55,79.26
+2023-08-12,Produto D,Alimentos,5,329.94,128.34,Belo Horizonte,Carlos,201.6,61.1
+2023-02-06,Produto D,Brinquedos,11,951.97,102.68,Belo Horizonte,Ana,849.29,89.21
+2023-09-25,Produto D,Roupas,13,604.16,252.09,Rio de Janeiro,João,352.07,58.27
+2023-07-02,Produto C,Eletrônicos,19,775.66,325.52,São Paulo,Carlos,450.14,58.03
+2023-01-13,Produto B,Brinquedos,10,602.18,145.89,Belo Horizonte,Mariana,456.29,75.77
+2023-10-06,Produto D,Eletrônicos,10,597.26,472.58,São Paulo,Carlos,124.68,20.88
+2023-08-05,Produto D,Eletrônicos,11,184.74,53.01,Rio de Janeiro,Carlos,131.73,71.31
+2023-12-21,Produto A,Roupas,7,409.3,397.54,São Paulo,Carlos,11.76,2.87
+2023-12-27,Produto C,Alimentos,18,354.19,331.34,São Paulo,Ana,22.85,6.45
+2023-10-13,Produto A,Alimentos,4,451.66,218.1,Rio de Janeiro,João,233.56,51.71
+2023-09-30,Produto B,Roupas,2,818.51,72.72,Curitiba,Carlos,745.79,91.12
+2023-03-03,Produto C,Eletrônicos,14,434.74,332.37,Belo Horizonte,Mariana,102.37,23.55
+2023-03-25,Produto B,Alimentos,13,506.53,223.53,Curitiba,Mariana,283.0,55.87
+2023-08-05,Produto C,Eletrônicos,12,457.64,471.32,Rio de Janeiro,Carlos,-13.68,-2.99
+2023-12-08,Produto B,Alimentos,7,184.07,293.9,Rio de Janeiro,João,-109.83,-59.67
+2023-07-06,Produto D,Eletrônicos,2,496.96,472.84,Belo Horizonte,Carlos,24.12,4.85
+2023-01-19,Produto B,Brinquedos,13,276.05,149.22,Belo Horizonte,Ana,126.83,45.94
+2023-06-26,Produto A,Alimentos,14,268.05,376.58,Rio de Janeiro,Mariana,-108.53,-40.49
+2023-04-10,Produto A,Brinquedos,17,184.63,327.76,Rio de Janeiro,Carlos,-143.13,-77.52
+2023-08-21,Produto D,Eletrônicos,9,421.0,382.73,Belo Horizonte,Ana,38.27,9.09
+2023-03-17,Produto B,Alimentos,17,781.73,146.6,Rio de Janeiro,Carlos,635.13,81.25
+2023-09-22,Produto B,Brinquedos,8,348.8,349.25,Belo Horizonte,Mariana,-0.45,-0.13
+2023-10-11,Produto C,Eletrônicos,2,381.11,274.12,São Paulo,Mariana,106.99,28.07
+2023-07-25,Produto D,Eletrônicos,13,678.41,384.27,Belo Horizonte,Ana,294.14,43.36
+2023-08-11,Produto C,Eletrônicos,3,276.26,197.17,São Paulo,João,79.09,28.63
+2023-02-21,Produto C,Alimentos,16,907.26,450.53,São Paulo,Carlos,456.73,50.34
+2023-12-05,Produto D,Eletrônicos,6,568.17,87.94,Curitiba,Ana,480.23,84.52
+2023-05-24,Produto D,Brinquedos,19,502.84,413.24,Belo Horizonte,João,89.6,17.82
+2023-03-10,Produto B,Roupas,7,602.04,437.59,Belo Horizonte,João,164.45,27.32
+2023-04-09,Produto B,Brinquedos,10,249.43,417.76,Rio de Janeiro,Mariana,-168.33,-67.49
+2023-01-25,Produto B,Eletrônicos,9,652.13,280.73,Rio de Janeiro,Mariana,371.4,56.95
+2023-02-22,Produto A,Roupas,2,426.79,247.27,Belo Horizonte,Mariana,179.52,42.06
+2023-05-31,Produto B,Eletrônicos,15,907.47,498.32,Curitiba,Ana,409.15,45.09
+2023-05-24,Produto A,Roupas,5,251.97,153.13,Rio de Janeiro,Ana,98.84,39.23
+2023-02-26,Produto C,Roupas,4,556.35,296.09,Belo Horizonte,Ana,260.26,46.78
+2023-02-08,Produto D,Brinquedos,4,638.3,351.8,São Paulo,João,286.5,44.88
+2023-04-19,Produto B,Roupas,18,130.05,365.39,Curitiba,Carlos,-235.34,-180.96
+2023-06-30,Produto C,Roupas,4,427.32,141.81,São Paulo,João,285.51,66.81
+2023-02-11,Produto D,Eletrônicos,17,759.37,344.3,Rio de Janeiro,Carlos,415.07,54.66
+2023-07-05,Produto C,Alimentos,12,838.34,418.27,São Paulo,João,420.07,50.11
+2023-08-11,Produto B,Brinquedos,17,381.85,72.51,Belo Horizonte,Ana,309.34,81.01
+2023-05-02,Produto A,Eletrônicos,10,818.73,460.18,Belo Horizonte,Ana,358.55,43.79
+2023-05-13,Produto A,Eletrônicos,1,970.98,63.28,Belo Horizonte,Ana,907.7,93.48
+2023-06-12,Produto A,Brinquedos,18,871.19,210.19,Curitiba,João,661.0,75.87
+2023-08-03,Produto D,Roupas,18,205.88,57.12,Curitiba,Mariana,148.76,72.26
+2023-08-09,Produto C,Brinquedos,14,765.76,84.72,Curitiba,João,681.04,88.94
+2023-08-23,Produto A,Brinquedos,15,387.7,460.03,Curitiba,Carlos,-72.33,-18.66
+2023-11-27,Produto B,Brinquedos,12,989.57,209.69,Curitiba,João,779.88,78.81
+2023-05-26,Produto D,Roupas,4,536.82,241.15,Rio de Janeiro,Ana,295.67,55.08
+2023-08-27,Produto B,Roupas,3,210.19,146.9,São Paulo,João,63.29,30.11
+2023-03-17,Produto D,Alimentos,12,752.67,318.69,Belo Horizonte,Carlos,433.98,57.66
+2023-01-09,Produto A,Brinquedos,7,390.71,317.66,Curitiba,João,73.05,18.7
+2023-03-15,Produto C,Brinquedos,11,997.37,217.49,Rio de Janeiro,Ana,779.88,78.19
+2023-09-10,Produto D,Alimentos,1,981.8,199.87,São Paulo,Ana,781.93,79.64
+2023-08-18,Produto A,Alimentos,6,690.52,448.23,Curitiba,João,242.29,35.09
+2023-01-07,Produto C,Brinquedos,15,216.84,222.48,Belo Horizonte,Mariana,-5.64,-2.6
+2023-06-23,Produto C,Alimentos,15,718.17,272.08,São Paulo,Carlos,446.09,62.11
+2023-05-21,Produto D,Brinquedos,19,183.73,177.49,Rio de Janeiro,Ana,6.24,3.4
+2023-06-17,Produto A,Alimentos,11,126.43,404.05,Rio de Janeiro,Mariana,-277.62,-219.58
+2023-06-19,Produto D,Roupas,2,840.66,228.85,Rio de Janeiro,Ana,611.81,72.78
+2023-10-10,Produto A,Alimentos,14,288.78,281.12,Belo Horizonte,Carlos,7.66,2.65
+2023-05-02,Produto D,Brinquedos,2,441.12,164.01,São Paulo,João,277.11,62.82
+2023-07-13,Produto D,Roupas,4,976.11,494.45,São Paulo,Mariana,481.66,49.34
+2023-01-05,Produto B,Alimentos,17,403.16,181.17,São Paulo,João,221.99,55.06
+2023-01-29,Produto B,Alimentos,3,366.84,396.83,Curitiba,Mariana,-29.99,-8.18
+2023-06-14,Produto B,Eletrônicos,13,926.39,242.37,São Paulo,Carlos,684.02,73.84
+2023-12-05,Produto D,Alimentos,9,199.67,142.8,São Paulo,Carlos,56.87,28.48
+2023-05-16,Produto A,Brinquedos,7,783.62,409.87,Curitiba,João,373.75,47.7
+2023-12-31,Produto A,Brinquedos,15,989.26,200.12,Rio de Janeiro,Mariana,789.14,79.77
+2023-11-17,Produto A,Eletrônicos,11,911.17,439.34,Curitiba,Mariana,471.83,51.78
+2023-12-08,Produto C,Roupas,2,686.5,461.87,São Paulo,João,224.63,32.72
+2023-05-25,Produto C,Eletrônicos,15,382.65,436.92,Curitiba,Carlos,-54.27,-14.18
+2023-11-23,Produto D,Roupas,14,328.89,65.75,Rio de Janeiro,Carlos,263.14,80.01
+2023-08-05,Produto D,Alimentos,11,837.33,404.32,Rio de Janeiro,Carlos,433.01,51.71
+2023-10-28,Produto D,Alimentos,3,891.84,235.1,Curitiba,Mariana,656.74,73.64
+2023-05-12,Produto A,Eletrônicos,17,572.89,443.18,Belo Horizonte,Carlos,129.71,22.64
+2023-10-19,Produto A,Brinquedos,12,319.91,337.08,Rio de Janeiro,João,-17.17,-5.37
+2023-03-11,Produto B,Brinquedos,15,201.65,425.14,Curitiba,Ana,-223.49,-110.83
+2023-09-09,Produto A,Brinquedos,16,178.46,274.74,São Paulo,João,-96.28,-53.95
+2023-10-02,Produto C,Eletrônicos,5,747.17,290.76,Curitiba,João,456.41,61.09
+2023-12-30,Produto B,Roupas,6,478.11,114.97,Rio de Janeiro,Mariana,363.14,75.95
+2023-07-01,Produto A,Roupas,19,914.82,402.79,Curitiba,Carlos,512.03,55.97
+2023-06-16,Produto A,Eletrônicos,5,765.7,238.73,Belo Horizonte,Ana,526.97,68.82
+2023-04-01,Produto D,Brinquedos,3,272.13,275.04,Belo Horizonte,Ana,-2.91,-1.07
+2023-07-21,Produto C,Alimentos,1,652.4,403.29,Belo Horizonte,João,249.11,38.18
+2023-12-12,Produto C,Alimentos,6,491.95,319.48,Curitiba,João,172.47,35.06
+2023-01-19,Produto A,Alimentos,15,619.52,140.49,Curitiba,Ana,479.03,77.32
+2023-02-08,Produto C,Brinquedos,2,764.26,315.6,Curitiba,João,448.66,58.71
+2023-05-06,Produto D,Brinquedos,3,825.58,233.43,Curitiba,João,592.15,71.73
+2023-06-22,Produto C,Roupas,17,859.36,261.29,Rio de Janeiro,Mariana,598.07,69.59
+2023-05-21,Produto D,Alimentos,12,328.58,62.74,São Paulo,Mariana,265.84,80.91
+2023-08-30,Produto B,Roupas,18,128.0,144.51,Curitiba,Carlos,-16.51,-12.9
+2023-08-08,Produto C,Brinquedos,15,765.37,176.47,Curitiba,Ana,588.9,76.94
+2023-05-06,Produto B,Roupas,12,195.71,370.83,Belo Horizonte,João,-175.12,-89.48
+2023-02-27,Produto A,Roupas,16,383.43,55.17,Rio de Janeiro,Carlos,328.26,85.61
+2023-05-28,Produto D,Brinquedos,8,103.44,233.95,Curitiba,Ana,-130.51,-126.17
+2023-11-13,Produto D,Alimentos,14,713.5,465.81,Rio de Janeiro,Ana,247.69,34.71
+2023-12-27,Produto B,Alimentos,17,250.42,100.35,Rio de Janeiro,Mariana,150.07,59.93
+2023-01-01,Produto C,Brinquedos,8,689.75,282.39,São Paulo,Ana,407.36,59.06
+2023-12-14,Produto D,Alimentos,15,992.57,403.94,Rio de Janeiro,João,588.63,59.3
+2023-07-09,Produto A,Brinquedos,14,165.4,474.14,Rio de Janeiro,Carlos,-308.74,-186.66
+2023-07-10,Produto D,Brinquedos,18,169.37,386.05,Belo Horizonte,Carlos,-216.68,-127.93
+2023-11-08,Produto D,Eletrônicos,7,406.34,374.25,Rio de Janeiro,Mariana,32.09,7.9
+2023-04-27,Produto D,Brinquedos,3,879.75,421.92,São Paulo,Carlos,457.83,52.04
+2023-05-14,Produto B,Eletrônicos,12,293.98,250.79,São Paulo,Carlos,43.19,14.69
+2023-02-27,Produto D,Roupas,3,424.34,412.63,Rio de Janeiro,Carlos,11.71,2.76
+2023-02-13,Produto B,Roupas,14,161.65,53.58,Rio de Janeiro,Mariana,108.07,66.85
+2023-06-22,Produto A,Eletrônicos,15,786.84,466.05,São Paulo,João,320.79,40.77
+2023-06-09,Produto C,Brinquedos,14,467.48,249.49,São Paulo,Mariana,217.99,46.63
+2023-06-22,Produto B,Eletrônicos,7,783.32,299.02,São Paulo,Carlos,484.3,61.83
+2023-11-13,Produto A,Eletrônicos,17,913.25,164.7,Curitiba,Ana,748.55,81.97
+2023-10-30,Produto C,Eletrônicos,12,309.49,384.14,Rio de Janeiro,Mariana,-74.65,-24.12
+2023-05-29,Produto D,Eletrônicos,4,826.66,84.49,Rio de Janeiro,Mariana,742.17,89.78
+2023-03-21,Produto B,Alimentos,9,153.18,442.69,Belo Horizonte,Carlos,-289.51,-189.0
+2023-08-01,Produto A,Eletrônicos,6,908.96,422.65,São Paulo,Carlos,486.31,53.5
+2023-07-22,Produto D,Eletrônicos,16,685.69,147.23,Curitiba,Mariana,538.46,78.53
+2023-09-09,Produto C,Alimentos,2,886.8,414.2,São Paulo,João,472.6,53.29
+2023-08-17,Produto C,Alimentos,8,100.17,403.86,Curitiba,Mariana,-303.69,-303.17
+2023-06-13,Produto C,Eletrônicos,11,252.17,334.5,Rio de Janeiro,Mariana,-82.33,-32.65
+2023-08-15,Produto A,Roupas,13,450.78,218.08,Belo Horizonte,Mariana,232.7,51.62
+2023-05-27,Produto A,Brinquedos,17,441.55,172.17,Belo Horizonte,Mariana,269.38,61.01
+2023-01-20,Produto C,Roupas,8,304.06,154.3,São Paulo,Ana,149.76,49.25
+2023-02-16,Produto B,Roupas,18,443.45,193.37,Curitiba,Ana,250.08,56.39
+2023-08-21,Produto A,Eletrônicos,18,215.96,456.6,Curitiba,Ana,-240.64,-111.43
+2023-11-01,Produto A,Brinquedos,14,471.49,84.94,Belo Horizonte,Mariana,386.55,81.98
+2023-01-14,Produto C,Brinquedos,15,822.12,422.99,Belo Horizonte,Ana,399.13,48.55
+2023-05-23,Produto A,Roupas,6,531.16,207.0,Rio de Janeiro,João,324.16,61.03
+2023-01-01,Produto A,Alimentos,11,116.2,284.72,Belo Horizonte,João,-168.52,-145.03
+2023-02-23,Produto A,Brinquedos,13,479.3,407.52,São Paulo,Carlos,71.78,14.98
+2023-09-16,Produto B,Brinquedos,1,124.46,447.97,São Paulo,Carlos,-323.51,-259.93
+2023-05-24,Produto B,Alimentos,6,969.62,205.15,Curitiba,Ana,764.47,78.84
+2023-01-12,Produto C,Brinquedos,9,214.71,257.83,Rio de Janeiro,Ana,-43.12,-20.08
+2023-11-26,Produto C,Brinquedos,8,736.92,236.53,Curitiba,Ana,500.39,67.9
+2023-08-12,Produto A,Brinquedos,11,975.5,55.96,São Paulo,João,919.54,94.26
+2023-09-29,Produto B,Roupas,19,843.44,183.17,Rio de Janeiro,Mariana,660.27,78.28
+2023-12-24,Produto C,Roupas,9,729.38,256.64,São Paulo,Ana,472.74,64.81
+2023-06-05,Produto D,Roupas,17,855.51,234.99,São Paulo,João,620.52,72.53
+2023-01-08,Produto C,Roupas,12,983.62,374.87,Belo Horizonte,João,608.75,61.89
+2023-05-02,Produto A,Eletrônicos,14,659.21,223.16,São Paulo,Carlos,436.05,66.15
+2023-12-14,Produto A,Eletrônicos,15,603.27,270.22,Belo Horizonte,Carlos,333.05,55.21
+2023-06-13,Produto B,Brinquedos,16,665.41,243.32,Curitiba,João,422.09,63.43
+2023-03-31,Produto C,Alimentos,1,579.41,383.28,Belo Horizonte,Ana,196.13,33.85
+2023-05-16,Produto C,Alimentos,10,671.58,438.34,São Paulo,Mariana,233.24,34.73
+2023-07-05,Produto A,Eletrônicos,8,504.86,289.35,Rio de Janeiro,Ana,215.51,42.69
+2023-11-12,Produto A,Eletrônicos,18,296.6,405.24,Belo Horizonte,Carlos,-108.64,-36.63
+2023-06-27,Produto C,Roupas,1,208.22,183.55,Rio de Janeiro,Carlos,24.67,11.85
+2023-01-28,Produto A,Roupas,2,161.51,293.62,Rio de Janeiro,Mariana,-132.11,-81.8
+2023-08-08,Produto C,Brinquedos,1,336.98,205.35,Rio de Janeiro,João,131.63,39.06
+2023-12-23,Produto D,Roupas,1,141.51,236.39,Belo Horizonte,Mariana,-94.88,-67.05
+2023-02-10,Produto A,Roupas,9,610.45,379.59,Rio de Janeiro,Ana,230.86,37.82
+2023-08-16,Produto D,Alimentos,13,355.45,446.75,Curitiba,Mariana,-91.3,-25.69
+2023-07-11,Produto A,Roupas,1,842.08,104.67,São Paulo,Ana,737.41,87.57
+2023-05-25,Produto D,Alimentos,13,166.82,335.59,Belo Horizonte,Ana,-168.77,-101.17
+2023-07-20,Produto A,Brinquedos,7,303.72,311.96,Curitiba,Carlos,-8.24,-2.71
+2023-07-31,Produto B,Eletrônicos,2,757.22,103.29,Rio de Janeiro,Mariana,653.93,86.36
+2023-08-08,Produto B,Brinquedos,6,638.93,145.35,Belo Horizonte,João,493.58,77.25
+2023-08-28,Produto C,Roupas,7,158.04,189.95,Rio de Janeiro,Mariana,-31.91,-20.19
+2023-02-15,Produto B,Alimentos,14,889.52,125.12,São Paulo,João,764.4,85.93
+2023-02-04,Produto D,Eletrônicos,18,889.54,159.68,Curitiba,Ana,729.86,82.05
+2023-09-10,Produto A,Eletrônicos,15,397.37,170.42,São Paulo,Carlos,226.95,57.11
+2023-03-23,Produto D,Roupas,2,406.37,201.05,Belo Horizonte,Mariana,205.32,50.53
+2023-09-13,Produto C,Brinquedos,10,990.13,387.23,Rio de Janeiro,Ana,602.9,60.89
+2023-07-16,Produto A,Brinquedos,12,663.56,307.36,Belo Horizonte,Mariana,356.2,53.68
+2023-10-30,Produto C,Roupas,17,578.18,493.81,Curitiba,Mariana,84.37,14.59
+2023-01-10,Produto A,Brinquedos,8,854.34,236.63,Curitiba,Mariana,617.71,72.3
+2023-11-08,Produto D,Brinquedos,11,356.76,389.24,Curitiba,Ana,-32.48,-9.1
+2023-10-13,Produto B,Brinquedos,3,486.26,442.16,São Paulo,João,44.1,9.07
+2023-08-30,Produto A,Alimentos,6,341.0,355.54,Rio de Janeiro,Carlos,-14.54,-4.26
+2023-09-08,Produto C,Roupas,9,810.24,235.34,Belo Horizonte,Mariana,574.9,70.95
+2023-12-31,Produto A,Roupas,6,616.01,389.12,Curitiba,Carlos,226.89,36.83
+2023-01-05,Produto A,Brinquedos,9,692.94,141.65,Curitiba,João,551.29,79.56
+2023-04-29,Produto A,Eletrônicos,7,327.08,197.4,São Paulo,Mariana,129.68,39.65
+2023-10-16,Produto D,Brinquedos,9,298.2,296.01,Rio de Janeiro,João,2.19,0.73
+2023-03-06,Produto A,Alimentos,18,539.54,308.93,Belo Horizonte,João,230.61,42.74
+2023-05-26,Produto A,Alimentos,12,763.81,59.96,Belo Horizonte,Ana,703.85,92.15
+2023-08-12,Produto C,Alimentos,8,572.72,475.3,Curitiba,João,97.42,17.01
+2023-08-27,Produto C,Brinquedos,8,129.38,363.48,Belo Horizonte,Mariana,-234.1,-180.94
+2023-06-26,Produto A,Alimentos,18,881.7,273.07,Belo Horizonte,Ana,608.63,69.03
+2023-09-24,Produto C,Eletrônicos,15,158.22,469.91,Belo Horizonte,Mariana,-311.69,-197.0
+2023-12-07,Produto C,Brinquedos,7,960.24,247.59,Curitiba,Ana,712.65,74.22
+2023-10-09,Produto A,Brinquedos,11,122.63,491.2,São Paulo,João,-368.57,-300.55
+2023-03-04,Produto B,Roupas,16,725.01,280.53,Belo Horizonte,Carlos,444.48,61.31
+2023-08-05,Produto D,Brinquedos,4,173.99,101.43,Belo Horizonte,João,72.56,41.7
+2023-12-08,Produto D,Brinquedos,6,919.61,394.16,Rio de Janeiro,Mariana,525.45,57.14
+2023-11-11,Produto A,Roupas,3,517.99,355.5,São Paulo,Carlos,162.49,31.37
+2023-10-10,Produto A,Brinquedos,9,223.77,397.84,Curitiba,Carlos,-174.07,-77.79
+2023-06-26,Produto B,Brinquedos,10,406.73,478.15,Curitiba,Ana,-71.42,-17.56
+2023-04-08,Produto B,Brinquedos,14,248.34,399.42,São Paulo,João,-151.08,-60.84
+2023-04-15,Produto C,Roupas,11,253.52,325.1,Rio de Janeiro,Carlos,-71.58,-28.23
+2023-04-09,Produto A,Roupas,18,953.3,435.79,Curitiba,Ana,517.51,54.29
+2023-11-07,Produto D,Roupas,12,500.72,352.96,Belo Horizonte,Carlos,147.76,29.51
+2023-01-06,Produto C,Eletrônicos,12,809.92,233.65,Belo Horizonte,João,576.27,71.15
+2023-07-16,Produto A,Alimentos,13,675.65,448.53,Rio de Janeiro,Carlos,227.12,33.62
+2023-12-17,Produto B,Roupas,13,708.78,149.86,Curitiba,Ana,558.92,78.86
+2023-05-13,Produto D,Roupas,19,218.52,371.59,Belo Horizonte,João,-153.07,-70.05
+2023-12-24,Produto A,Brinquedos,19,310.77,446.7,Curitiba,Mariana,-135.93,-43.74
+2023-09-16,Produto B,Roupas,14,808.08,379.09,Rio de Janeiro,João,428.99,53.09
+2023-01-23,Produto B,Alimentos,4,973.69,363.77,Belo Horizonte,Mariana,609.92,62.64
+2023-02-22,Produto B,Alimentos,13,336.41,388.69,Curitiba,Mariana,-52.28,-15.54
+2023-06-14,Produto B,Brinquedos,8,344.41,259.27,Rio de Janeiro,Ana,85.14,24.72
+2023-07-21,Produto A,Roupas,19,525.61,443.38,Rio de Janeiro,João,82.23,15.64
+2023-03-24,Produto D,Brinquedos,12,985.46,141.55,Rio de Janeiro,João,843.91,85.64
+2023-05-25,Produto D,Brinquedos,18,342.06,107.32,São Paulo,Ana,234.74,68.63
+2023-03-26,Produto C,Roupas,6,466.27,178.48,Rio de Janeiro,João,287.79,61.72
+2023-03-19,Produto A,Brinquedos,18,902.33,289.21,Belo Horizonte,Ana,613.12,67.95
+2023-01-01,Produto C,Roupas,19,102.63,279.75,Belo Horizonte,Ana,-177.12,-172.58
+2023-02-20,Produto A,Roupas,5,135.79,419.27,Curitiba,Ana,-283.48,-208.76
+2023-06-22,Produto D,Alimentos,9,643.66,232.06,Rio de Janeiro,Ana,411.6,63.95
+2023-07-24,Produto B,Roupas,3,916.64,267.95,Rio de Janeiro,Carlos,648.69,70.77
+2023-09-17,Produto A,Brinquedos,10,314.97,56.02,São Paulo,Mariana,258.95,82.21
+2023-10-15,Produto B,Eletrônicos,19,522.68,234.38,Rio de Janeiro,Carlos,288.3,55.16
+2023-02-03,Produto A,Alimentos,3,505.42,341.5,Belo Horizonte,João,163.92,32.43
+2023-12-14,Produto C,Brinquedos,15,525.67,56.98,Rio de Janeiro,Ana,468.69,89.16
+2023-04-05,Produto A,Brinquedos,1,660.27,176.4,Rio de Janeiro,Ana,483.87,73.28
+2023-03-13,Produto B,Eletrônicos,7,522.77,143.58,Rio de Janeiro,Carlos,379.19,72.53
+2023-02-08,Produto C,Brinquedos,12,502.72,68.89,Belo Horizonte,João,433.83,86.3
+2023-06-03,Produto B,Alimentos,17,526.86,265.67,Rio de Janeiro,Carlos,261.19,49.57
+2023-09-07,Produto A,Eletrônicos,5,631.78,131.78,Curitiba,João,500.0,79.14
+2023-06-11,Produto B,Brinquedos,4,583.31,384.39,Curitiba,Carlos,198.92,34.1
+2023-04-28,Produto C,Brinquedos,12,868.72,431.57,Belo Horizonte,João,437.15,50.32
+2023-09-16,Produto A,Brinquedos,18,144.55,295.51,Curitiba,Mariana,-150.96,-104.43
+2023-11-02,Produto B,Brinquedos,17,849.99,491.77,Curitiba,Ana,358.22,42.14
+2023-09-25,Produto B,Roupas,19,859.53,252.72,São Paulo,Carlos,606.81,70.6
+2023-02-23,Produto A,Eletrônicos,9,356.42,281.02,Belo Horizonte,João,75.4,21.15
+2023-08-24,Produto C,Brinquedos,4,516.57,495.15,Curitiba,João,21.42,4.15
+2023-08-10,Produto A,Eletrônicos,2,494.68,154.2,São Paulo,João,340.48,68.83
+2023-09-08,Produto B,Brinquedos,4,296.66,474.15,São Paulo,Ana,-177.49,-59.83
+2023-11-09,Produto D,Alimentos,2,457.12,69.28,São Paulo,Mariana,387.84,84.84
+2023-04-22,Produto D,Alimentos,15,139.95,250.87,Rio de Janeiro,Carlos,-110.92,-79.26
+2023-09-12,Produto B,Eletrônicos,2,350.04,81.5,São Paulo,Carlos,268.54,76.72
+2023-10-30,Produto B,Alimentos,4,835.01,378.16,Rio de Janeiro,João,456.85,54.71
+2023-07-26,Produto D,Eletrônicos,6,356.11,323.78,Belo Horizonte,Mariana,32.33,9.08
+2023-08-17,Produto B,Brinquedos,7,836.39,367.99,São Paulo,Mariana,468.4,56.0
+2023-12-07,Produto A,Brinquedos,10,578.44,218.52,Rio de Janeiro,Mariana,359.92,62.22
+2023-03-07,Produto C,Brinquedos,19,891.88,216.27,Belo Horizonte,Ana,675.61,75.75
+2023-03-16,Produto C,Roupas,19,617.3,70.39,São Paulo,Carlos,546.91,88.6
+2023-04-13,Produto C,Roupas,12,126.7,207.48,Curitiba,João,-80.78,-63.76
+2023-07-11,Produto A,Brinquedos,3,707.88,468.18,São Paulo,Carlos,239.7,33.86
+2023-09-09,Produto B,Alimentos,13,140.37,220.65,São Paulo,João,-80.28,-57.19
+2023-08-14,Produto B,Alimentos,18,505.54,424.12,Belo Horizonte,Carlos,81.42,16.11
+2023-10-21,Produto D,Roupas,8,936.48,429.05,Rio de Janeiro,Ana,507.43,54.18
+2023-11-02,Produto C,Alimentos,15,248.68,217.96,Rio de Janeiro,João,30.72,12.35
+2023-04-08,Produto D,Brinquedos,1,450.89,334.39,Curitiba,Carlos,116.5,25.84
+2023-12-04,Produto D,Roupas,3,756.87,92.92,Belo Horizonte,Ana,663.95,87.72
+2023-10-13,Produto D,Alimentos,8,894.03,96.66,São Paulo,Ana,797.37,89.19
+2023-12-01,Produto B,Alimentos,4,703.85,71.9,São Paulo,Carlos,631.95,89.78
+2023-12-13,Produto C,Roupas,16,332.36,311.46,Rio de Janeiro,Carlos,20.9,6.29
+2023-11-04,Produto C,Brinquedos,10,707.15,241.73,Curitiba,João,465.42,65.82
+2023-09-06,Produto B,Eletrônicos,12,367.05,296.61,Belo Horizonte,Mariana,70.44,19.19
+2023-06-15,Produto D,Roupas,14,746.59,284.48,Curitiba,Ana,462.11,61.9
+2023-12-01,Produto D,Roupas,14,958.63,207.59,São Paulo,Ana,751.04,78.35
+2023-01-30,Produto D,Brinquedos,2,749.25,354.86,Curitiba,Ana,394.39,52.64
+2023-09-04,Produto D,Brinquedos,5,876.59,391.33,Rio de Janeiro,Ana,485.26,55.36
+2023-04-16,Produto D,Eletrônicos,5,101.89,56.58,Belo Horizonte,Ana,45.31,44.47
+2023-02-20,Produto B,Eletrônicos,6,745.81,143.26,Belo Horizonte,Carlos,602.55,80.79
+2023-03-22,Produto D,Roupas,13,846.63,370.96,Belo Horizonte,Carlos,475.67,56.18
+2023-05-13,Produto B,Alimentos,9,136.5,223.98,Rio de Janeiro,Ana,-87.48,-64.09
+2023-10-12,Produto D,Eletrônicos,15,884.44,348.12,São Paulo,Carlos,536.32,60.64
+2023-05-18,Produto D,Brinquedos,14,331.02,206.13,Belo Horizonte,Ana,124.89,37.73
+2023-07-03,Produto B,Alimentos,7,698.76,225.84,São Paulo,Carlos,472.92,67.68
+2023-11-26,Produto D,Alimentos,2,820.32,121.41,Belo Horizonte,Mariana,698.91,85.2
+2023-09-30,Produto D,Alimentos,7,696.4,166.2,São Paulo,Mariana,530.2,76.13
+2023-12-06,Produto D,Alimentos,6,183.06,322.44,Curitiba,Ana,-139.38,-76.14
+2023-03-10,Produto C,Alimentos,17,636.69,244.92,São Paulo,Ana,391.77,61.53
+2023-02-03,Produto C,Brinquedos,2,594.63,398.44,Curitiba,Mariana,196.19,32.99
+2023-09-19,Produto A,Alimentos,3,910.29,433.66,Curitiba,Carlos,476.63,52.36
+2023-02-22,Produto A,Brinquedos,5,463.82,293.74,Rio de Janeiro,Mariana,170.08,36.67
+2023-07-24,Produto A,Alimentos,5,388.97,391.22,Curitiba,João,-2.25,-0.58
+2023-05-06,Produto B,Brinquedos,1,774.87,188.11,Curitiba,João,586.76,75.72
+2023-08-23,Produto C,Roupas,8,471.41,236.74,Rio de Janeiro,João,234.67,49.78
+2023-02-12,Produto D,Brinquedos,12,681.49,370.75,Rio de Janeiro,Mariana,310.74,45.6
+2023-08-28,Produto A,Brinquedos,4,681.81,223.8,São Paulo,Ana,458.01,67.18
+2023-04-21,Produto C,Eletrônicos,13,899.24,314.83,Belo Horizonte,João,584.41,64.99
+2023-09-06,Produto C,Eletrônicos,15,638.82,133.42,São Paulo,Ana,505.4,79.11
+2023-05-31,Produto A,Alimentos,11,551.94,319.9,Rio de Janeiro,João,232.04,42.04
+2023-07-02,Produto B,Eletrônicos,10,224.98,437.68,São Paulo,Ana,-212.7,-94.54
+2023-12-02,Produto D,Roupas,3,204.16,440.89,Rio de Janeiro,Carlos,-236.73,-115.95
+2023-04-05,Produto D,Eletrônicos,14,238.89,375.95,Curitiba,Ana,-137.06,-57.37
+2023-01-08,Produto C,Brinquedos,16,254.66,385.59,São Paulo,João,-130.93,-51.41
+2023-12-26,Produto C,Eletrônicos,10,674.09,301.07,São Paulo,Ana,373.02,55.34
+2023-07-03,Produto D,Roupas,10,766.88,313.1,Rio de Janeiro,Ana,453.78,59.17
+2023-10-08,Produto C,Alimentos,12,576.99,110.14,Rio de Janeiro,Ana,466.85,80.91
+2023-07-14,Produto A,Alimentos,9,846.12,249.74,Rio de Janeiro,João,596.38,70.48
+2023-12-18,Produto B,Alimentos,1,992.14,252.85,Curitiba,João,739.29,74.51
+2023-07-14,Produto C,Brinquedos,5,838.01,481.32,Rio de Janeiro,João,356.69,42.56
+2023-06-04,Produto A,Roupas,8,725.39,243.99,Curitiba,Carlos,481.4,66.36
+2023-04-03,Produto C,Brinquedos,11,579.24,297.2,Rio de Janeiro,Ana,282.04,48.69
+2023-06-09,Produto B,Roupas,12,503.97,289.96,São Paulo,Carlos,214.01,42.46
+2023-03-02,Produto B,Brinquedos,1,175.95,336.54,Rio de Janeiro,Carlos,-160.59,-91.27
+2023-05-02,Produto A,Eletrônicos,11,459.43,386.7,São Paulo,João,72.73,15.83
+2023-02-20,Produto A,Roupas,5,919.12,151.27,Rio de Janeiro,Ana,767.85,83.54
+2023-10-04,Produto A,Alimentos,15,827.22,287.93,Rio de Janeiro,Ana,539.29,65.19
+2023-01-05,Produto D,Brinquedos,5,294.45,421.66,Curitiba,João,-127.21,-43.2
+2023-04-02,Produto A,Alimentos,12,519.95,258.4,Rio de Janeiro,João,261.55,50.3
+2023-06-19,Produto D,Eletrônicos,5,835.05,175.31,Rio de Janeiro,Mariana,659.74,79.01
+2023-11-13,Produto B,Roupas,17,160.65,344.62,Curitiba,Carlos,-183.97,-114.52
+2023-01-22,Produto A,Eletrônicos,17,448.65,420.7,Belo Horizonte,Carlos,27.95,6.23
+2023-11-22,Produto D,Roupas,12,866.66,78.41,Belo Horizonte,Mariana,788.25,90.95
+2023-01-01,Produto C,Roupas,15,463.51,399.56,Belo Horizonte,Mariana,63.95,13.8
+2023-05-13,Produto D,Eletrônicos,15,169.85,419.74,Rio de Janeiro,Carlos,-249.89,-147.12
+2023-08-21,Produto B,Alimentos,6,588.28,257.69,São Paulo,João,330.59,56.2
+2023-01-12,Produto C,Eletrônicos,12,875.57,492.49,Curitiba,Carlos,383.08,43.75
+2023-12-12,Produto A,Eletrônicos,18,631.26,404.02,Belo Horizonte,João,227.24,36.0
+2023-02-15,Produto B,Eletrônicos,14,303.65,398.15,São Paulo,Carlos,-94.5,-31.12
+2023-02-03,Produto C,Eletrônicos,2,445.82,386.53,Belo Horizonte,Ana,59.29,13.3
+2023-03-19,Produto C,Eletrônicos,9,505.11,117.77,Belo Horizonte,Ana,387.34,76.68
+2023-08-06,Produto B,Brinquedos,5,621.34,147.75,Curitiba,João,473.59,76.22
+2023-10-28,Produto D,Roupas,1,783.42,258.8,Belo Horizonte,Carlos,524.62,66.97
+2023-03-14,Produto A,Alimentos,3,188.99,168.8,Rio de Janeiro,Mariana,20.19,10.68
+2023-10-09,Produto A,Roupas,6,900.69,236.86,Rio de Janeiro,Carlos,663.83,73.7
+2023-09-06,Produto B,Brinquedos,5,111.08,449.81,São Paulo,Ana,-338.73,-304.94
+2023-02-16,Produto C,Brinquedos,5,433.05,420.95,Curitiba,João,12.1,2.79
+2023-05-01,Produto D,Roupas,1,124.68,333.52,Rio de Janeiro,João,-208.84,-167.5
+2023-08-02,Produto C,Eletrônicos,17,453.68,436.15,Rio de Janeiro,Carlos,17.53,3.86
+2023-08-27,Produto D,Alimentos,19,573.23,402.7,Rio de Janeiro,João,170.53,29.75
+2023-02-25,Produto B,Roupas,14,560.51,243.04,Rio de Janeiro,Mariana,317.47,56.64
+2023-12-16,Produto D,Alimentos,12,249.07,140.48,Belo Horizonte,Mariana,108.59,43.6
+2023-04-17,Produto A,Eletrônicos,10,681.17,281.39,Curitiba,João,399.78,58.69
+2023-11-15,Produto B,Brinquedos,18,140.3,381.3,São Paulo,Ana,-241.0,-171.77
+2023-02-17,Produto D,Roupas,11,785.72,246.39,Rio de Janeiro,Ana,539.33,68.64
+2023-03-02,Produto A,Eletrônicos,2,951.98,350.05,Belo Horizonte,Carlos,601.93,63.23
+2023-12-03,Produto A,Roupas,18,405.79,92.45,São Paulo,Ana,313.34,77.22
+2023-01-26,Produto A,Brinquedos,7,565.52,386.6,São Paulo,Carlos,178.92,31.64
+2023-10-19,Produto D,Alimentos,15,441.02,415.72,São Paulo,Mariana,25.3,5.74
+2023-09-14,Produto D,Brinquedos,11,106.04,368.08,Curitiba,Carlos,-262.04,-247.11
+2023-01-08,Produto D,Brinquedos,18,447.29,485.27,São Paulo,Carlos,-37.98,-8.49
+2023-04-23,Produto B,Roupas,12,812.55,421.99,Rio de Janeiro,Carlos,390.56,48.07
+2023-12-21,Produto D,Eletrônicos,6,636.39,456.39,São Paulo,Carlos,180.0,28.28
+2023-09-10,Produto C,Alimentos,13,191.13,470.11,Curitiba,Carlos,-278.98,-145.96
+2023-06-29,Produto B,Brinquedos,16,862.43,410.61,São Paulo,Mariana,451.82,52.39
+2023-07-26,Produto A,Alimentos,18,577.98,353.42,São Paulo,Carlos,224.56,38.85
+2023-10-30,Produto D,Brinquedos,10,857.55,52.57,Belo Horizonte,Mariana,804.98,93.87
+2023-05-07,Produto C,Alimentos,8,622.2,259.62,Belo Horizonte,Ana,362.58,58.27
+2023-02-25,Produto D,Eletrônicos,18,603.72,307.02,Rio de Janeiro,Mariana,296.7,49.15
+2023-08-02,Produto A,Brinquedos,1,194.73,186.81,São Paulo,Ana,7.92,4.07
+2023-01-14,Produto B,Eletrônicos,8,250.62,193.15,São Paulo,Carlos,57.47,22.93
+2023-01-28,Produto D,Eletrônicos,6,974.82,482.52,Rio de Janeiro,Carlos,492.3,50.5
+2023-03-19,Produto B,Eletrônicos,5,305.64,451.27,Rio de Janeiro,Mariana,-145.63,-47.65
+2023-08-04,Produto B,Eletrônicos,15,979.71,432.13,São Paulo,João,547.58,55.89
+2023-12-31,Produto B,Alimentos,15,578.72,232.71,Curitiba,João,346.01,59.79
+2023-06-03,Produto B,Brinquedos,2,222.21,56.16,São Paulo,Mariana,166.05,74.73
+2023-01-14,Produto A,Roupas,1,189.37,86.1,Rio de Janeiro,Carlos,103.27,54.53
+2023-07-06,Produto A,Alimentos,11,287.98,190.49,São Paulo,Ana,97.49,33.85
+2023-11-08,Produto D,Roupas,10,933.07,57.08,São Paulo,Ana,875.99,93.88
+2023-01-07,Produto B,Roupas,18,472.74,57.72,Curitiba,Ana,415.02,87.79
+2023-01-03,Produto D,Alimentos,18,455.89,462.47,Curitiba,João,-6.58,-1.44
+2023-04-21,Produto C,Roupas,17,381.89,367.77,Belo Horizonte,Carlos,14.12,3.7
+2023-08-26,Produto B,Roupas,8,232.36,189.03,Belo Horizonte,João,43.33,18.65
+2023-12-29,Produto B,Alimentos,15,539.07,109.69,Curitiba,Carlos,429.38,79.65
+2023-08-27,Produto C,Roupas,8,217.04,280.24,Belo Horizonte,Ana,-63.2,-29.12
+2023-10-01,Produto A,Roupas,17,851.93,52.41,Belo Horizonte,Carlos,799.52,93.85
+2023-10-21,Produto A,Roupas,12,433.36,472.29,São Paulo,Mariana,-38.93,-8.98
+2023-08-15,Produto C,Brinquedos,8,437.32,236.67,Curitiba,Ana,200.65,45.88
+2023-01-15,Produto A,Roupas,14,526.61,231.05,São Paulo,João,295.56,56.13
+2023-07-11,Produto A,Eletrônicos,4,499.71,225.77,São Paulo,João,273.94,54.82
+2023-04-29,Produto C,Eletrônicos,1,995.37,81.2,Rio de Janeiro,Ana,914.17,91.84
+2023-01-28,Produto B,Roupas,1,590.84,337.25,São Paulo,Carlos,253.59,42.92
+2023-07-21,Produto B,Brinquedos,19,179.38,379.85,São Paulo,Mariana,-200.47,-111.76
+2023-02-08,Produto B,Eletrônicos,16,646.19,354.26,Rio de Janeiro,Carlos,291.93,45.18
+2023-09-30,Produto C,Brinquedos,14,236.43,112.3,Curitiba,Carlos,124.13,52.5
+2023-08-19,Produto C,Eletrônicos,16,127.84,310.48,Rio de Janeiro,Mariana,-182.64,-142.87
+2023-03-27,Produto A,Roupas,5,973.67,306.27,São Paulo,Carlos,667.4,68.54
+2023-05-06,Produto A,Eletrônicos,9,796.19,440.78,São Paulo,Ana,355.41,44.64
+2023-10-27,Produto C,Roupas,2,982.1,220.61,Belo Horizonte,João,761.49,77.54
+2023-01-25,Produto D,Eletrônicos,18,530.09,217.17,Curitiba,João,312.92,59.03
+2023-05-25,Produto B,Alimentos,6,579.03,328.34,Curitiba,João,250.69,43.29
+2023-01-13,Produto C,Alimentos,9,251.5,334.88,Rio de Janeiro,Mariana,-83.38,-33.15
+2023-07-31,Produto D,Roupas,1,322.22,261.18,Belo Horizonte,Mariana,61.04,18.94
+2023-01-25,Produto A,Eletrônicos,9,854.69,249.38,Belo Horizonte,Mariana,605.31,70.82
+2023-03-09,Produto A,Brinquedos,16,420.57,272.37,Curitiba,Ana,148.2,35.24
+2023-03-08,Produto A,Alimentos,13,844.13,437.47,São Paulo,João,406.66,48.18
+2023-08-21,Produto C,Alimentos,9,738.11,257.53,Belo Horizonte,Ana,480.58,65.11
+2023-04-19,Produto A,Brinquedos,13,259.45,472.97,Belo Horizonte,João,-213.52,-82.3
+2023-05-26,Produto D,Alimentos,9,556.7,276.8,Curitiba,Mariana,279.9,50.28
+2023-04-21,Produto A,Eletrônicos,11,709.65,477.14,Belo Horizonte,Carlos,232.51,32.76
+2023-08-16,Produto A,Eletrônicos,4,311.53,424.77,Rio de Janeiro,Mariana,-113.24,-36.35
+2023-04-21,Produto C,Roupas,2,847.62,213.09,Rio de Janeiro,Carlos,634.53,74.86
+2023-02-03,Produto A,Alimentos,6,590.34,438.64,Rio de Janeiro,Ana,151.7,25.7
+2023-04-21,Produto A,Brinquedos,14,248.72,99.53,Rio de Janeiro,Carlos,149.19,59.98
+2023-09-21,Produto D,Roupas,4,624.69,466.27,Curitiba,Mariana,158.42,25.36
+2023-08-24,Produto A,Alimentos,6,999.74,334.24,Rio de Janeiro,Ana,665.5,66.57
+2023-03-24,Produto A,Brinquedos,19,235.47,74.48,São Paulo,Carlos,160.99,68.37
+2023-02-11,Produto D,Roupas,6,835.08,339.92,Curitiba,Carlos,495.16,59.29
+2023-04-11,Produto C,Roupas,2,286.58,488.41,Belo Horizonte,Mariana,-201.83,-70.43
+2023-01-06,Produto C,Alimentos,18,804.15,81.41,São Paulo,Mariana,722.74,89.88
+2023-06-29,Produto B,Roupas,13,761.12,299.61,Belo Horizonte,Carlos,461.51,60.64
+2023-10-09,Produto D,Eletrônicos,9,370.44,386.51,Rio de Janeiro,Ana,-16.07,-4.34
+2023-11-16,Produto A,Roupas,19,393.24,414.62,Belo Horizonte,Mariana,-21.38,-5.44
+2023-08-14,Produto B,Brinquedos,13,813.27,236.22,Curitiba,Mariana,577.05,70.95
+2023-11-11,Produto C,Alimentos,11,515.3,141.87,Rio de Janeiro,Mariana,373.43,72.47
+2023-12-31,Produto A,Alimentos,1,757.74,69.05,Curitiba,João,688.69,90.89
+2023-08-17,Produto D,Alimentos,7,233.19,310.88,São Paulo,João,-77.69,-33.32
+2023-10-16,Produto B,Alimentos,15,867.3,253.81,São Paulo,João,613.49,70.74
+2023-05-30,Produto A,Alimentos,1,739.8,476.93,Rio de Janeiro,Carlos,262.87,35.53
+2023-10-04,Produto C,Alimentos,12,916.25,77.27,Curitiba,Ana,838.98,91.57
+2023-07-17,Produto D,Eletrônicos,7,219.14,358.43,São Paulo,João,-139.29,-63.56
+2023-03-11,Produto A,Brinquedos,15,633.71,61.23,Belo Horizonte,Mariana,572.48,90.34
+2023-04-22,Produto D,Roupas,19,639.21,127.15,Curitiba,Carlos,512.06,80.11
+2023-01-04,Produto A,Alimentos,1,418.11,254.11,Rio de Janeiro,Carlos,164.0,39.22
+2023-12-16,Produto B,Brinquedos,17,512.62,254.69,São Paulo,João,257.93,50.32
+2023-11-27,Produto A,Brinquedos,17,134.18,358.57,São Paulo,João,-224.39,-167.23
+2023-11-14,Produto C,Alimentos,3,771.27,459.6,Belo Horizonte,Carlos,311.67,40.41
+2023-12-16,Produto C,Roupas,12,594.39,337.56,Rio de Janeiro,Mariana,256.83,43.21
+2023-04-05,Produto B,Roupas,6,151.97,479.09,São Paulo,Carlos,-327.12,-215.25
+2023-06-01,Produto D,Eletrônicos,11,712.68,446.73,Curitiba,Mariana,265.95,37.32
+2023-11-07,Produto D,Alimentos,3,520.1,313.02,Curitiba,Ana,207.08,39.82
+2023-05-17,Produto C,Brinquedos,8,131.02,425.21,Curitiba,Mariana,-294.19,-224.54
+2023-09-04,Produto C,Roupas,14,972.65,339.16,Belo Horizonte,Ana,633.49,65.13
+2023-08-31,Produto A,Eletrônicos,14,954.2,85.35,Rio de Janeiro,Ana,868.85,91.06
+2023-01-31,Produto D,Eletrônicos,10,561.61,383.25,São Paulo,Mariana,178.36,31.76
+2023-02-09,Produto A,Eletrônicos,2,184.31,92.71,São Paulo,Ana,91.6,49.7
+2023-08-17,Produto A,Brinquedos,14,779.16,317.34,Rio de Janeiro,Ana,461.82,59.27
+2023-02-05,Produto D,Alimentos,9,542.74,366.19,Curitiba,Ana,176.55,32.53
+2023-08-11,Produto D,Brinquedos,3,372.2,79.94,São Paulo,João,292.26,78.52
+2023-01-06,Produto C,Eletrônicos,8,542.28,153.86,Curitiba,João,388.42,71.63
+2023-11-18,Produto A,Eletrônicos,16,570.2,462.05,Belo Horizonte,João,108.15,18.97
+2023-08-08,Produto D,Eletrônicos,2,606.44,327.34,Belo Horizonte,Ana,279.1,46.02
+2023-03-16,Produto D,Brinquedos,6,497.1,160.83,Rio de Janeiro,João,336.27,67.65
+2023-01-04,Produto C,Roupas,12,645.18,360.81,Rio de Janeiro,Carlos,284.37,44.08
+2023-12-01,Produto D,Brinquedos,5,926.86,318.55,Belo Horizonte,Ana,608.31,65.63
+2023-05-14,Produto B,Roupas,2,426.04,275.71,Curitiba,Mariana,150.33,35.29
+2023-04-28,Produto C,Roupas,16,753.14,489.28,Rio de Janeiro,Ana,263.86,35.03
+2023-04-04,Produto D,Brinquedos,5,905.01,357.55,Belo Horizonte,Mariana,547.46,60.49
+2023-03-03,Produto A,Alimentos,15,510.38,218.95,Belo Horizonte,João,291.43,57.1
+2023-07-13,Produto B,Brinquedos,12,499.11,410.03,Curitiba,João,89.08,17.85
+2023-12-01,Produto D,Alimentos,4,641.91,448.06,Curitiba,João,193.85,30.2
+2023-07-22,Produto D,Brinquedos,15,632.27,106.35,Curitiba,João,525.92,83.18
+2023-01-26,Produto B,Roupas,11,825.93,140.25,Rio de Janeiro,Mariana,685.68,83.02
+2023-06-22,Produto C,Eletrônicos,16,528.84,147.3,Rio de Janeiro,Carlos,381.54,72.15
+2023-10-27,Produto D,Eletrônicos,6,996.51,361.05,Belo Horizonte,Ana,635.46,63.77
+2023-05-13,Produto D,Eletrônicos,14,153.52,321.37,São Paulo,Carlos,-167.85,-109.33
+2023-11-22,Produto C,Alimentos,18,102.85,328.55,Rio de Janeiro,Ana,-225.7,-219.45
+2023-04-28,Produto D,Eletrônicos,12,676.18,473.35,Curitiba,João,202.83,30.0
+2023-11-20,Produto B,Brinquedos,11,368.59,399.16,Belo Horizonte,João,-30.57,-8.29
+2023-10-02,Produto D,Roupas,13,316.34,107.57,Rio de Janeiro,João,208.77,66.0
+2023-07-31,Produto A,Roupas,11,380.71,206.38,Curitiba,Carlos,174.33,45.79
+2023-08-13,Produto C,Eletrônicos,16,330.44,245.93,Rio de Janeiro,Mariana,84.51,25.57
+2023-01-20,Produto C,Eletrônicos,15,127.71,228.18,Curitiba,Ana,-100.47,-78.67
+2023-04-23,Produto B,Brinquedos,15,974.38,351.19,Curitiba,Ana,623.19,63.96
+2023-05-20,Produto B,Roupas,4,298.67,451.35,Rio de Janeiro,Carlos,-152.68,-51.12
+2023-02-16,Produto D,Roupas,11,760.63,187.72,São Paulo,Mariana,572.91,75.32
+2023-01-01,Produto A,Eletrônicos,19,786.34,298.34,Rio de Janeiro,João,488.0,62.06
+2023-03-31,Produto D,Roupas,15,936.33,405.23,Belo Horizonte,Ana,531.1,56.72
+2023-05-22,Produto C,Brinquedos,4,127.49,237.3,São Paulo,Mariana,-109.81,-86.13
+2023-11-16,Produto A,Roupas,13,884.84,125.65,Curitiba,João,759.19,85.8
+2023-02-07,Produto C,Eletrônicos,19,574.5,263.73,Rio de Janeiro,Mariana,310.77,54.09
+2023-10-20,Produto D,Roupas,2,669.29,74.85,Belo Horizonte,Ana,594.44,88.82
+2023-05-19,Produto C,Eletrônicos,14,680.02,474.07,Belo Horizonte,João,205.95,30.29
+2023-12-22,Produto B,Eletrônicos,4,837.82,83.67,Curitiba,Mariana,754.15,90.01
+2023-11-29,Produto D,Roupas,16,400.07,247.31,Rio de Janeiro,João,152.76,38.18
