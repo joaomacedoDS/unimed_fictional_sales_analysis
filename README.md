@@ -11,7 +11,7 @@ You will receive a CSV file with sales data, containing information such as sale
 - [data](base_dados_teste_analista.csv)
 
 ## Predictive Analysis
-- [predictive analysis](unimed_previsao_vendas_2024(1º trimestre).ipynb)
+- [predictive analysis](https://github.com/joaomacedoDS/unimed_fictional_sales_analysis/blob/master/unimed_previsao_vendas_2024(1%C2%BA%20trimestre).ipynb)
 - [generated file](projecao.xlsx)
   
 ### Goal:
